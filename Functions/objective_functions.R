@@ -1,26 +1,26 @@
-## abundance function
+## pollinator abundance function
 abundance <- function(m) sum(rowSums(v.mat[,m]))
 
 ## positive abundance function
-pollinator.abundance <- function(m) sum(rowSums(m1[,m]))
+pollinator.abundance <- function(m1) sum(rowSums(v.mat[,m1]))
 
 ## positive abundance function
-lmpara.abundance <- function(m) sum(rowSums(m2[,m]))
+lmpara.abundance <- function(m2) sum(rowSums(v.mat[,m2]))
 
 ## negative abundance function
-herbivore.abundance <- function(m) sum(rowSums(m3[,m]<0))
+herbivore.abundance <- function(m3) sum(rowSums(v.mat[,m3]<0))
 
-## richness function
+## pollinator richness function
 richness <- function(m) sum(rowSums(v.mat[,m]>0)>0)
 
 ## positive richness function
-pollinator.richness <- function(m) sum(rowSums(m1[,m]>0)>0)
+pollinator.richness <- function(m1) sum(rowSums(v.mat[,m1]>0)>0)
   
 ## positive richness function
-lmpara.richness <- function(m) sum(rowSums(m2[,m]>0)>0)
+lmpara.richness <- function(m2) sum(rowSums(v.mat[,m2]>0)>0)
 
 ## negative richness function
-herbivore.richness <- function(m) sum(rowSums(m3[,m]<0)<0)
+herbivore.richness <- function(m3) sum(rowSums(v.mat[,m3]<=0)<=0)
 
 ## pollinator phenology function
 phenology <- function(m) {
