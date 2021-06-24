@@ -25,7 +25,6 @@ source("Functions/network_functions.R") # Adapted from Pilosof et al. (2017)
 source("Functions/ga.R") # From M'Gonigle et al. (2017)
 source("Functions/control.R") # From M'Gonigle et al. (2017)
 source("Functions/objective_functions.R") # Adapted from M'Gonigle et al. (2017)
-source("Functions/robustness_functions.R") # Adapted from Pocock et al. (2012)
 source("Functions/stability_functions.R") # From Sauve et al. (2016)
 
 
@@ -512,7 +511,7 @@ edge_density(graph_from_incidence_matrix(empty(multilayer_mat[,mix.r.multilayer.
 
 
 
-### ROBUSTNESS ###
+### ROBUSTNESS ### (from Bane et al. 2018)
 
 ## Generate networks to work from
 
