@@ -1255,7 +1255,7 @@ V(plant.poll_graph)$code <- substr(names(V(plant.poll_graph)), 1, 4)
 V(plant.poll_graph)$color <- V(plant.poll_graph)$code
 
 # Set the colours to the appropriate values
-V(plant.poll_graph)$color <- gsub("01PL", "darkgreen", V(plant.poll_graph)$color)
+V(plant.poll_graph)$color <- gsub("01PL", "forestgreen", V(plant.poll_graph)$color)
 V(plant.poll_graph)$color <- gsub("03AP", "yellowgreen", V(plant.poll_graph)$color)
 V(plant.poll_graph)$color <- gsub("06MI", "darkblue", V(plant.poll_graph)$color)
 V(plant.poll_graph)$color <- gsub("02FV", "gold", V(plant.poll_graph)$color)
@@ -1271,14 +1271,14 @@ legend("topleft", legend = c("Pollinators", "Herbivores", "Parasitoids", "Plants
 ## MULTILAYER NETWORK PLANT MIX NETWORK 
 
 # Multilayer plant mix 
-plant.multilayer_graph <- graph_from_incidence_matrix(empty(multilayer_mat[,mix.ar.multilayer.add5]))
+plant.multilayer_graph <- graph_from_incidence_matrix(empty(multilayer_mat[,mix.r.multilayer.add5]))
 
 # Set the node properties
 V(plant.multilayer_graph)$code <- substr(names(V(plant.multilayer_graph)), 1, 4)
 V(plant.multilayer_graph)$color <- V(plant.multilayer_graph)$code
 
 # Set the colours to the appropriate values
-V(plant.multilayer_graph)$color <- gsub("01PL", "darkgreen", V(plant.multilayer_graph)$color)
+V(plant.multilayer_graph)$color <- gsub("01PL", "forestgreen", V(plant.multilayer_graph)$color)
 V(plant.multilayer_graph)$color <- gsub("03AP", "yellowgreen", V(plant.multilayer_graph)$color)
 V(plant.multilayer_graph)$color <- gsub("06MI", "darkblue", V(plant.multilayer_graph)$color)
 V(plant.multilayer_graph)$color <- gsub("02FV", "gold", V(plant.multilayer_graph)$color)
