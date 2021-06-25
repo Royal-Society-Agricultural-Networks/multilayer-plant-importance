@@ -406,37 +406,37 @@ mix.properties <- data.frame(Mix = c("Pollinator", "Parasitoid", "Herbivore", "M
 ## Pollinator plant mix
 
 # Pollinator species richness
-mix.properties$Pollinator_n[1] <- table(rowSums(multilayer_mat[1:257,mixes_both_weighted[,1]])>0)["TRUE"]
+mix.properties$Pollinator_n[1] <- table(rowSums(multilayer_mat[1:257,mixes_richness_weighted[,1]])>0)["TRUE"]
 
 # Parasitoid species richness
-mix.properties$Parasitoid_n[1] <- table(rowSums(multilayer_mat[286:381,mixes_both_weighted[,1]])>0)["TRUE"]
+mix.properties$Parasitoid_n[1] <- table(rowSums(multilayer_mat[286:381,mixes_richness_weighted[,1]])>0)["TRUE"]
 
 # Herbivore species richness
-mix.properties$Herbivore_n[1] <- table(rowSums(multilayer_mat[258:285,mixes_both_weighted[,1]])>0)["TRUE"]
+mix.properties$Herbivore_n[1] <- table(rowSums(multilayer_mat[258:285,mixes_richness_weighted[,1]])>0)["TRUE"]
 
 
 ## Parasitoid plant mix
 
 # Pollinator species richness
-mix.properties$Pollinator_n[2] <- table(rowSums(multilayer_mat[1:257,mixes_both_weighted[,2]])>0)["TRUE"]
+mix.properties$Pollinator_n[2] <- table(rowSums(multilayer_mat[1:257,mixes_richness_weighted[,2]])>0)["TRUE"]
 
 # Parasitoid species richness
-mix.properties$Parasitoid_n[2] <- table(rowSums(multilayer_mat[286:381,mixes_both_weighted[,2]])>0)["TRUE"]
+mix.properties$Parasitoid_n[2] <- table(rowSums(multilayer_mat[286:381,mixes_richness_weighted[,2]])>0)["TRUE"]
 
 # Herbivore species richness
-mix.properties$Herbivore_n[2] <- table(rowSums(multilayer_mat[258:285,mixes_both_weighted[,2]])>0)["TRUE"]
+mix.properties$Herbivore_n[2] <- table(rowSums(multilayer_mat[258:285,mixes_richness_weighted[,2]])>0)["TRUE"]
 
 
 ## Herbivore plant mix
 
 # Pollinator species richness
-mix.properties$Pollinator_n[3] <- table(rowSums(multilayer_mat[1:257,mixes_both_weighted[,3]])>0)["TRUE"]
+mix.properties$Pollinator_n[3] <- table(rowSums(multilayer_mat[1:257,mixes_richness_weighted[,3]])>0)["TRUE"]
 
 # Parasitoid species richness
-mix.properties$Parasitoid_n[3] <- table(rowSums(multilayer_mat[286:381,mixes_both_weighted[,3]])>0)["TRUE"]
+mix.properties$Parasitoid_n[3] <- table(rowSums(multilayer_mat[286:381,mixes_richness_weighted[,3]])>0)["TRUE"]
 
 # Herbivore species richness
-mix.properties$Herbivore_n[3] <- table(rowSums(multilayer_mat[258:285,mixes_both_weighted[,3]])>0)["TRUE"]
+mix.properties$Herbivore_n[3] <- table(rowSums(multilayer_mat[258:285,mixes_richness_weighted[,3]])>0)["TRUE"]
 
 
 ## Multilayer plant mix
@@ -464,13 +464,13 @@ mix.properties$Mix <- ordered(mix.properties$Mix, levels = c("Pollinator", "Para
 ### DEGREE ### 
 
 ## Pollinator plant mix 
-mean(degree((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_both_weighted[,1]])))))
+mean(degree((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,1]])))))
 
 ## Parasitoid plant mix
-mean(degree((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_both_weighted[,2]])))))
+mean(degree((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,2]])))))
 
 ## Herbivore plant mix
-mean(degree((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_both_weighted[,3]])))))
+mean(degree((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,3]])))))
 
 ## Multilayer plant mix
 mean(degree((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mix.r.multilayer.add5])))))
@@ -480,13 +480,13 @@ mean(degree((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mix.r.
 ### KATZ CENTRALITY ###
 
 ## Pollinator plant mix 
-mean(katzcent((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_both_weighted[,1]]))), alpha = 0.05))
+mean(katzcent((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,1]]))), alpha = 0.05))
 
 ## Parasitoid plant mix
-mean(katzcent((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_both_weighted[,2]]))), alpha = 0.05))
+mean(katzcent((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,2]]))), alpha = 0.05))
 
 ## Herbivore plant mix
-mean(katzcent((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_both_weighted[,3]]))), alpha = 0.05))
+mean(katzcent((graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,3]]))), alpha = 0.05))
 
 ## Multilayer plant mix
 mean(katzcent(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mix.r.multilayer.add5])), alpha = 0.05))
@@ -497,16 +497,16 @@ mean(katzcent(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mix.r
 ### CONNECTANCE ### 
 
 ## Pollinator plant mix 
-edge_density(graph_from_incidence_matrix(empty(multilayer_mat[,mixes_both_weighted[,1]])))
+edge_density(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,1]])))
 
 ## Parasitoid plant mix
-edge_density(graph_from_incidence_matrix(empty(multilayer_mat[,mixes_both_weighted[,2]])))
+edge_density(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,2]])))
 
 ## Herbivore plant mix
-edge_density(graph_from_incidence_matrix(empty(multilayer_mat[,mixes_both_weighted[,3]])))
+edge_density(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,3]])))
 
 ## Multilayer plant mix
-edge_density(graph_from_incidence_matrix(empty(multilayer_mat[,mix.r.multilayer.add5])))
+edge_density(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mix.r.multilayer.add5])))
 
 
 
@@ -523,7 +523,7 @@ rob.plant.lm.para_mat <- multilayer_mat[286:381,]
 ## Pollinator plant mix 
 
 # Remove plants that are not shared between layers
-commonplants.poll <- mixes_both_weighted[,1]
+commonplants.poll <- mixes_richness_weighted[,1]
 plant.poll.poll_mat <- rob.plant.poll_mat[,commonplants.poll]
 plant.herb.poll_mat <- rob.plant.herb_mat[,commonplants.poll]
 plant.lm.para.poll_mat <- rob.plant.lm.para_mat[,commonplants.poll]
@@ -659,7 +659,7 @@ median(lmpara_Rvalues)
 ## Parasitoid plant mix
 
 # Remove plants that are not shared between layers
-commonplants.para <- mixes_both_weighted[,2]
+commonplants.para <- mixes_richness_weighted[,2]
 plant.poll.para_mat <- rob.plant.poll_mat[,commonplants.para]
 plant.herb.para_mat <- rob.plant.herb_mat[,commonplants.para]
 plant.lm.para.para_mat <- rob.plant.lm.para_mat[,commonplants.para]
@@ -795,7 +795,7 @@ median(lmpara_Rvalues)
 ## Herbivore plant mix
 
 # Remove plants that are not shared between layers
-commonplants.herb <- mixes_both_weighted[,3]
+commonplants.herb <- mixes_richness_weighted[,3]
 plant.poll.herb_mat <- rob.plant.poll_mat[,commonplants.herb]
 plant.herb.herb_mat <- rob.plant.herb_mat[,commonplants.herb]
 plant.lm.para.herb_mat <- rob.plant.lm.para_mat[,commonplants.herb]
@@ -1071,7 +1071,7 @@ median(lmpara_Rvalues)
 ## Pollinator plant mix
 
 # Create adjacency matrix
-multilayer.poll_adj.mat <- as.matrix(as_adjacency_matrix(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_both_weighted[,1]]))))
+multilayer.poll_adj.mat <- as.matrix(as_adjacency_matrix(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,1]]))))
 
 # Create a Jacobian matrix
 multilayer.poll_jac.mat <- jacobian_binary(multilayer.poll_adj.mat)
@@ -1083,7 +1083,7 @@ stability(multilayer.poll_jac.mat, s2 = 13)
 ## Parasitoid plant mix
 
 # Create adjacency matrix
-multilayer.para_adj.mat <- as.matrix(as_adjacency_matrix(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_both_weighted[,2]]))))
+multilayer.para_adj.mat <- as.matrix(as_adjacency_matrix(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,2]]))))
 
 # Create a Jacobian matrix
 multilayer.para_jac.mat <- jacobian_binary(multilayer.para_adj.mat)
@@ -1095,7 +1095,7 @@ stability(multilayer.para_jac.mat, s2 = 12)
 ## Herbivore plant mix
 
 # Create adjacency matrix
-multilayer.herb_adj.mat <- as.matrix(as_adjacency_matrix(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_both_weighted[,3]]))))
+multilayer.herb_adj.mat <- as.matrix(as_adjacency_matrix(graph_from_incidence_matrix(bipartite::empty(multilayer_mat[,mixes_richness_weighted[,3]]))))
 
 # Create a Jacobian matrix
 multilayer.herb_jac.mat <- jacobian_binary(multilayer.herb_adj.mat)
