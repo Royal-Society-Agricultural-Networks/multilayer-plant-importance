@@ -33,7 +33,7 @@ source("Functions/stability_functions.R") # From Sauve et al. (2016)
 #### DATA INPUT ####
 
 # Read in the data for the norwood farm network
-dframe1 <- read.csv("nore2_aggregated.csv", header = T)
+dframe1 <- read.csv("norwood_farm-scale.csv", header = T)
 
 # Sort out the shorthand guild names for the following manipulations
 dframe1$lower.names <- substr(dframe1$lower, 1, 4)
