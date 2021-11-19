@@ -1,0 +1,1735 @@
+lower,upper,fortotals
+01PLANT.Ajuga reptans,02FV.Rhingia campestris,1.49E+02
+01PLANT.Alliaria petiolata,02FV.Simulium sp,4.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Agriotes pallidulus,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Anaspis maculata,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Anthocomus fasciatus,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Bicellaria vana,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Botanophila striolata,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Bracon sp,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Cantharis lateralis,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Chlorops hypostigma,4.52E+02
+01PLANT.Anthriscus sylvestris,02FV.Chlorops pumilionis,1.90E+01
+01PLANT.Anthriscus sylvestris,02FV.Dacnusa (maculipes),1.90E+01
+01PLANT.Anthriscus sylvestris,02FV.Delia sp,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Dicraeus tibialis,1.90E+01
+01PLANT.Anthriscus sylvestris,02FV.Dolichopus ungulatus,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Empis (Xanthempis) sp,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Empis caudatula,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Empis livida,7.88E+01
+01PLANT.Anthriscus sylvestris,02FV.Empis nigripes,1.18E+02
+01PLANT.Anthriscus sylvestris,02FV.Endasys sp,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Episyrphus balteatus,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Fannia serena,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Fannia sp,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Helina sp,7.88E+01
+01PLANT.Anthriscus sylvestris,02FV.Hylemya vagans,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Microphor anomalus,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Miscogaster maculata,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Oscinella cariciphila,1.18E+02
+01PLANT.Anthriscus sylvestris,02FV.Phaenocarpa (ruficeps),3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Phaonia lasiophthalma,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Phasia pusilla,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Pimpla contemplator,3.94E+01
+01PLANT.Anthriscus sylvestris,02FV.Platycheirus albimanus,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Platycheirus nielseni,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Platypalpus sp,1.90E+01
+01PLANT.Anthriscus sylvestris,02FV.Psychodidae sp,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Psyllidae sp,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Pteromalidae,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Scathophaga stercoraria,2.93E+02
+01PLANT.Anthriscus sylvestris,02FV.Scatopsidae sp,1.97E+01
+01PLANT.Anthriscus sylvestris,02FV.Tenthredopsis nassata,1.97E+01
+01PLANT.Bellis perennis,02FV.Empis livida,1.48E+03
+01PLANT.Bellis perennis,02FV.Oscinella nitidissima,7.40E+02
+01PLANT.Bellis perennis,02FV.Pegoplata aestiva or Adia cinerella,7.40E+02
+01PLANT.Bellis perennis,02FV.Scathophaga stercoraria,8.88E+03
+01PLANT.Brassica napus,02FV.Empis livida,1.49E+02
+01PLANT.Brassica napus,02FV.Neoascia podagrica,4.97E+01
+01PLANT.Brassica napus,02FV.Syritta pipiens,4.97E+01
+01PLANT.Capsella bursa-pastoris,02FV.Empis livida,7.48E+02
+01PLANT.Capsella bursa-pastoris,02FV.Platycheirus albimanus,7.48E+02
+01PLANT.Capsella bursa-pastoris,02FV.Syritta pipiens,7.48E+02
+01PLANT.Cerastium fontanum,02FV.Empis livida,7.46E+02
+01PLANT.Cerastium fontanum,02FV.Neomyia cornicina,6.53E+00
+01PLANT.Cerastium fontanum,02FV.Platycheirus albimanus,4.59E+01
+01PLANT.Cerastium fontanum,02FV.Tetrastichinae sp,4.76E+02
+01PLANT.Cerastium fontanum,02FV.Torymus sp,6.53E+00
+01PLANT.Chaerophyllum temulum,02FV.Anaspis pulicaria,3.94E+01
+01PLANT.Cirsium arvense,02FV.Anapausis soluta,4.97E+01
+01PLANT.Cirsium arvense,02FV.Anthomyza gracilis,4.97E+01
+01PLANT.Cirsium arvense,02FV.Apis mellifera,2.40E+03
+01PLANT.Cirsium arvense,02FV.Bombus lapidarius,2.19E+02
+01PLANT.Cirsium arvense,02FV.Bombus pascuorum,2.19E+02
+01PLANT.Cirsium arvense,02FV.Bombus terrestris,4.97E+01
+01PLANT.Cirsium arvense,02FV.Botanophila striolata,1.97E+01
+01PLANT.Cirsium arvense,02FV.Bracon sp,1.47E+03
+01PLANT.Cirsium arvense,02FV.Cheilosia honesta,4.97E+01
+01PLANT.Cirsium arvense,02FV.Chrysopilus asiliformis,8.71E+00
+01PLANT.Cirsium arvense,02FV.Delia sp,4.97E+01
+01PLANT.Cirsium arvense,02FV.Dilophus febrilis,2.04E+02
+01PLANT.Cirsium arvense,02FV.Empis livida,7.87E+02
+01PLANT.Cirsium arvense,02FV.Episyrphus balteatus,4.97E+01
+01PLANT.Cirsium arvense,02FV.Eriothrix rufomaculata,4.97E+01
+01PLANT.Cirsium arvense,02FV.Eristalis arbustorum,1.15E+03
+01PLANT.Cirsium arvense,02FV.Helophilus pendulus,1.31E+01
+01PLANT.Cirsium arvense,02FV.Heteronychia vagans,4.97E+01
+01PLANT.Cirsium arvense,02FV.Kuzinia sp,1.97E+01
+01PLANT.Cirsium arvense,02FV.Lasioglossum sp,8.91E+01
+01PLANT.Cirsium arvense,02FV.Lucilia caesar,9.94E+01
+01PLANT.Cirsium arvense,02FV.Lucilia sericata,3.94E+01
+01PLANT.Cirsium arvense,02FV.Melanostoma mellinum,1.31E+01
+01PLANT.Cirsium arvense,02FV.Melinda viridicyanea,4.97E+01
+01PLANT.Cirsium arvense,02FV.Neomyia cornicina,1.57E+03
+01PLANT.Cirsium arvense,02FV.Neomyia viridescens,4.97E+01
+01PLANT.Cirsium arvense,02FV.Pegoplata aestiva or Adia cinerella,1.97E+01
+01PLANT.Cirsium arvense,02FV.Pegoplata depilis,1.97E+01
+01PLANT.Cirsium arvense,02FV.Pierretia sp,1.97E+01
+01PLANT.Cirsium arvense,02FV.Platycheirus nielseni,1.97E+01
+01PLANT.Cirsium arvense,02FV.Polyommatus icarus,4.97E+01
+01PLANT.Cirsium arvense,02FV.Pyronia tithonus,9.94E+01
+01PLANT.Cirsium arvense,02FV.Rhagonycha fulva,8.71E+00
+01PLANT.Cirsium arvense,02FV.Rhingia campestris,1.15E+03
+01PLANT.Cirsium arvense,02FV.Rhinophora lepida,3.94E+01
+01PLANT.Cirsium arvense,02FV.Scathophaga stercoraria,8.43E+02
+01PLANT.Cirsium arvense,02FV.Siphona geniculata,3.33E+03
+01PLANT.Cirsium arvense,02FV.Sphaerophoria sp,6.94E+01
+01PLANT.Cirsium arvense,02FV.Tetramesa sp,4.97E+01
+01PLANT.Cirsium arvense,02FV.Theroscopus sp,3.94E+01
+01PLANT.Cirsium arvense,02FV.Tricimba cincta,4.97E+01
+01PLANT.Cirsium vulgare,02FV.Apis mellifera,1.74E+01
+01PLANT.Cirsium vulgare,02FV.Bombus lapidarius,2.59E+03
+01PLANT.Cirsium vulgare,02FV.Bombus pascuorum,2.40E+01
+01PLANT.Cirsium vulgare,02FV.Bombus terrestris,6.05E+02
+01PLANT.Cirsium vulgare,02FV.Empis livida,4.35E+01
+01PLANT.Cirsium vulgare,02FV.Oscinella frit,4.76E+02
+01PLANT.Cirsium vulgare,02FV.Pieris brassicae,6.05E+02
+01PLANT.Cirsium vulgare,02FV.Sepsis fulgens,7.48E+02
+01PLANT.Conolvulus/Calystegia,02FV.Bombus pascuorum,1.90E+01
+01PLANT.Conolvulus/Calystegia,02FV.Delia sp,5.25E+01
+01PLANT.Conolvulus/Calystegia,02FV.Empis livida,9.94E+01
+01PLANT.Conolvulus/Calystegia,02FV.Eupeodes luniger,4.97E+01
+01PLANT.Conolvulus/Calystegia,02FV.Melanostoma mellinum,4.97E+01
+01PLANT.Conolvulus/Calystegia,02FV.Oedemera nobilis,4.97E+01
+01PLANT.Conolvulus/Calystegia,02FV.Platycheirus albimanus,1.90E+01
+01PLANT.Conolvulus/Calystegia,02FV.Sphaerophoria sp,1.90E+01
+01PLANT.Cornus sanguinea,02FV.Empis livida,4.35E+01
+01PLANT.Cornus sanguinea,02FV.Rhagio tringarius,8.71E+00
+01PLANT.Crataegus monogyna,02FV.Andrena dorsata,6.53E+00
+01PLANT.Crataegus monogyna,02FV.Bombus pascuorum,3.94E+01
+01PLANT.Crataegus monogyna,02FV.Cantharis decipiens,1.97E+01
+01PLANT.Crataegus monogyna,02FV.Chlorops hypostigma,1.97E+01
+01PLANT.Crataegus monogyna,02FV.Chlorops pumilionis,2.61E+01
+01PLANT.Crataegus monogyna,02FV.Delia sp,1.31E+01
+01PLANT.Crataegus monogyna,02FV.Dilophus febrilis,1.97E+01
+01PLANT.Crataegus monogyna,02FV.Glyphipterix simpliciella,1.97E+01
+01PLANT.Crataegus monogyna,02FV.Malachius bipustulatus,3.92E+01
+01PLANT.Crataegus monogyna,02FV.Oedemera nobilis,1.31E+01
+01PLANT.Crataegus monogyna,02FV.Phyllonorycter sp,6.53E+00
+01PLANT.Crataegus monogyna,02FV.Platycheirus albimanus,2.62E+01
+01PLANT.Crataegus monogyna,02FV.Platypalpus sp,6.53E+00
+01PLANT.Crataegus monogyna,02FV.Scathophaga stercoraria,5.91E+01
+01PLANT.Galium aparine,02FV.Hylemya vagans,2.98E+02
+01PLANT.Galium aparine,02FV.Sciaridae sp,7.88E+01
+01PLANT.Galium odoratum,02FV.Hercostomus parvilamellatus,7.46E+01
+01PLANT.Geranium robertianum,02FV.Platycheirus albimanus,1.97E+01
+01PLANT.Geranium robertianum,02FV.Rhingia campestris,7.46E+01
+01PLANT.Heracleum sphondylium,02FV.Alysiinae sp,9.94E+01
+01PLANT.Heracleum sphondylium,02FV.Anaspis maculata,3.68E+02
+01PLANT.Heracleum sphondylium,02FV.Anaspis pulicaria,2.98E+02
+01PLANT.Heracleum sphondylium,02FV.Anthophila fabriciana,1.39E+02
+01PLANT.Heracleum sphondylium,02FV.Azelia zetterstedtii,1.97E+01
+01PLANT.Heracleum sphondylium,02FV.Botanophila striolata,4.97E+01
+01PLANT.Heracleum sphondylium,02FV.Calliphora vicina,5.91E+01
+01PLANT.Heracleum sphondylium,02FV.Cantharis nigra,1.97E+01
+01PLANT.Heracleum sphondylium,02FV.Cheilosia illustrata,4.97E+01
+01PLANT.Heracleum sphondylium,02FV.Chloromyia formosa,8.71E+00
+01PLANT.Heracleum sphondylium,02FV.Chlorops hypostigma,2.78E+02
+01PLANT.Heracleum sphondylium,02FV.Chlorops pumilionis,1.97E+01
+01PLANT.Heracleum sphondylium,02FV.Chorebus sp,9.94E+01
+01PLANT.Heracleum sphondylium,02FV.Delia sp,5.47E+02
+01PLANT.Heracleum sphondylium,02FV.Dicraeus vagans,3.98E+02
+01PLANT.Heracleum sphondylium,02FV.Diplonevra sp,4.97E+01
+01PLANT.Heracleum sphondylium,02FV.Empis chioptera,1.31E+01
+01PLANT.Heracleum sphondylium,02FV.Empis livida,3.77E+02
+01PLANT.Heracleum sphondylium,02FV.Eristalis pertinax,9.94E+01
+01PLANT.Heracleum sphondylium,02FV.Eudasyphora cyanella,1.97E+01
+01PLANT.Heracleum sphondylium,02FV.Fannia sp,1.97E+01
+01PLANT.Heracleum sphondylium,02FV.Formicidae A,4.97E+01
+01PLANT.Heracleum sphondylium,02FV.Glyphipterix simpliciella,4.97E+01
+01PLANT.Heracleum sphondylium,02FV.Grammoptera ruficornis,1.19E+02
+01PLANT.Heracleum sphondylium,02FV.Hemicrepidius hirtus,2.49E+02
+01PLANT.Heracleum sphondylium,02FV.Limnophora triangula,1.97E+01
+01PLANT.Heracleum sphondylium,02FV.Melinda viridicyanea,1.97E+01
+01PLANT.Heracleum sphondylium,02FV.Microchrysa polita,1.31E+01
+01PLANT.Heracleum sphondylium,02FV.Neomyia cornicina,1.97E+01
+01PLANT.Heracleum sphondylium,02FV.Pegoplata infirma,1.99E+02
+01PLANT.Heracleum sphondylium,02FV.Pionini sp,4.97E+01
+01PLANT.Heracleum sphondylium,02FV.Platycheirus scutatus,1.97E+01
+01PLANT.Heracleum sphondylium,02FV.Platypalpus sp,9.94E+01
+01PLANT.Heracleum sphondylium,02FV.Pteromalidae,4.97E+01
+01PLANT.Heracleum sphondylium,02FV.Scaptomyza pallida,4.97E+01
+01PLANT.Heracleum sphondylium,02FV.Scathophaga stercoraria,2.74E+02
+01PLANT.Heracleum sphondylium,02FV.Sciaridae sp,4.31E+03
+01PLANT.Heracleum sphondylium,02FV.Sepsis fulgens,9.94E+01
+01PLANT.Heracleum sphondylium,02FV.Sepsis orthocnemis,9.94E+01
+01PLANT.Heracleum sphondylium,02FV.Sepsis violacea,4.97E+01
+01PLANT.Heracleum sphondylium,02FV.Tersilochus sp,1.31E+01
+01PLANT.Heracleum sphondylium,02FV.Tiphia minuta,1.49E+02
+01PLANT.Heracleum sphondylium,02FV.Volucella bombylans,4.97E+01
+01PLANT.Lamiastrum galeobdolon,02FV.Platycheirus albimanus,7.46E+01
+01PLANT.Lamiastrum galeobdolon,02FV.Rhingia campestris,7.46E+01
+01PLANT.Lamium album,02FV.Bombus pascuorum,9.94E+01
+01PLANT.Lapsana communis,02FV.Pegoplata aestiva or Adia cinerella,1.97E+01
+01PLANT.Leontodon autumnalis,02FV.Asecodes coronis,1.48E+03
+01PLANT.Leontodon autumnalis,02FV.Botanophila striolata,1.48E+03
+01PLANT.Leontodon autumnalis,02FV.Delia sp,1.48E+03
+01PLANT.Leontodon autumnalis,02FV.Halticoptera sp,1.48E+03
+01PLANT.Leontodon autumnalis,02FV.Hexacola hexatoma,1.48E+03
+01PLANT.Leontodon autumnalis,02FV.Kleidotoma tetratoma,1.04E+04
+01PLANT.Leontodon autumnalis,02FV.Metopina sp,4.81E+03
+01PLANT.Leontodon autumnalis,02FV.Pegoplata aestiva or Adia cinerella,1.48E+03
+01PLANT.Leontodon autumnalis,02FV.Rhoptromeris heptoma,5.92E+03
+01PLANT.Leontodon autumnalis,02FV.Rhoptromeris rufiventris,1.48E+03
+01PLANT.Leontodon autumnalis,02FV.Tetrastichinae sp,2.96E+03
+01PLANT.Ligustrum vulgare,02FV.Anaspis maculata,1.49E+02
+01PLANT.Ligustrum vulgare,02FV.Dolerus haematodes,6.53E+00
+01PLANT.Ligustrum vulgare,02FV.Epuraea melanocephala,3.13E+03
+01PLANT.Matricaria recutita,02FV.Andrena minutula,9.94E+01
+01PLANT.Matricaria recutita,02FV.Anthomyia liturata,9.94E+01
+01PLANT.Matricaria recutita,02FV.Authonomus rubi,4.97E+01
+01PLANT.Matricaria recutita,02FV.Azelia cilipes,9.94E+01
+01PLANT.Matricaria recutita,02FV.Bellardia pandia,9.94E+01
+01PLANT.Matricaria recutita,02FV.Botanophila fugax,7.71E+02
+01PLANT.Matricaria recutita,02FV.Bruchus rufimanus,2.78E+03
+01PLANT.Matricaria recutita,02FV.Cantharis nigra,1.47E+03
+01PLANT.Matricaria recutita,02FV.Chrysotoxum bicinctum,9.94E+01
+01PLANT.Matricaria recutita,02FV.Delia sp,6.61E+03
+01PLANT.Matricaria recutita,02FV.Dolichopus festivus,2.78E+03
+01PLANT.Matricaria recutita,02FV.Empis livida,9.26E+03
+01PLANT.Matricaria recutita,02FV.Eristalis arbustorum,1.46E+03
+01PLANT.Matricaria recutita,02FV.Eristalis tenax,6.05E+02
+01PLANT.Matricaria recutita,02FV.Eudasyphora cyanella,6.05E+02
+01PLANT.Matricaria recutita,02FV.Eupeodes corollae,1.54E+03
+01PLANT.Matricaria recutita,02FV.Gastrophysa viridular,2.31E+03
+01PLANT.Matricaria recutita,02FV.Helophilus trivittatus,7.71E+02
+01PLANT.Matricaria recutita,02FV.Hydrellia griseola,1.90E+03
+01PLANT.Matricaria recutita,02FV.Hylaeus communis,6.05E+02
+01PLANT.Matricaria recutita,02FV.Melanostoma mellinum,1.28E+03
+01PLANT.Matricaria recutita,02FV.Neomyia cornicina,2.31E+03
+01PLANT.Matricaria recutita,02FV.Oedemera lurida,7.71E+02
+01PLANT.Matricaria recutita,02FV.Oedemera nobilis,1.47E+03
+01PLANT.Matricaria recutita,02FV.Olibrus aeneus,1.09E+03
+01PLANT.Matricaria recutita,02FV.Omphalapion hookerorum,6.96E+02
+01PLANT.Matricaria recutita,02FV.Opomyza germinationis,6.96E+02
+01PLANT.Matricaria recutita,02FV.Pegoplata aestiva or Adia cinerella,3.98E+03
+01PLANT.Matricaria recutita,02FV.Phasia obesa,1.54E+03
+01PLANT.Matricaria recutita,02FV.Phasia pusilla,6.05E+02
+01PLANT.Matricaria recutita,02FV.Platycheirus albimanus,1.38E+03
+01PLANT.Matricaria recutita,02FV.Platycheirus manicatus,7.71E+02
+01PLANT.Matricaria recutita,02FV.Platycheirus sp,7.71E+02
+01PLANT.Matricaria recutita,02FV.Pollenia amentaria,9.94E+01
+01PLANT.Matricaria recutita,02FV.Pollenia pediculata,1.60E+03
+01PLANT.Matricaria recutita,02FV.Pollenia rudis,7.91E+02
+01PLANT.Matricaria recutita,02FV.Rhagonycha fulva,2.98E+02
+01PLANT.Matricaria recutita,02FV.Rhinophora lepida,9.94E+01
+01PLANT.Matricaria recutita,02FV.Scaptomyza flava,6.66E+02
+01PLANT.Matricaria recutita,02FV.Scaptomyza pallida,1.30E+03
+01PLANT.Matricaria recutita,02FV.Scathophaga stercoraria,6.27E+03
+01PLANT.Matricaria recutita,02FV.Scatopsidae sp,2.42E+03
+01PLANT.Matricaria recutita,02FV.Sepsis fulgens,1.21E+03
+01PLANT.Matricaria recutita,02FV.Siphona geniculata,1.99E+02
+01PLANT.Matricaria recutita,02FV.Sphaerophoria menthastri,6.05E+02
+01PLANT.Matricaria recutita,02FV.Sphaerophoria scripta,4.94E+03
+01PLANT.Matricaria recutita,02FV.Sphaerophoria sp,5.19E+03
+01PLANT.Matricaria recutita,02FV.Stenodiplosis sp,9.94E+01
+01PLANT.Matricaria recutita,02FV.Syritta pipiens,6.05E+02
+01PLANT.Matricaria recutita,02FV.Thaumatomyia glabra,9.94E+01
+01PLANT.Medicago sativa ssp. sativa,02FV.Apis mellifera,1.71E+04
+01PLANT.Medicago sativa ssp. sativa,02FV.Bombus terrestris,1.14E+03
+01PLANT.Medicago sativa ssp. sativa,02FV.Gastrophysa viridular,1.14E+03
+01PLANT.Medicago sativa ssp. sativa,02FV.Rhingia campestris,1.14E+03
+01PLANT.Mentha arvensis,02FV.Apis mellifera,5.97E+02
+01PLANT.Mentha arvensis,02FV.Eristalis arbustorum,9.94E+01
+01PLANT.Mentha arvensis,02FV.Oedemera lurida,9.94E+01
+01PLANT.Mentha arvensis,02FV.Scathophaga stercoraria,3.94E+01
+01PLANT.Myosotis arvensis,02FV.Empis livida,7.48E+02
+01PLANT.Papaver sp.,02FV.Bombus lapidarius,2.29E+03
+01PLANT.Papaver sp.,02FV.Bombus terrestris,2.22E+03
+01PLANT.Papaver sp.,02FV.Delia sp,7.71E+02
+01PLANT.Papaver sp.,02FV.Empis livida,4.97E+01
+01PLANT.Papaver sp.,02FV.Oedemera nobilis,9.94E+01
+01PLANT.Papaver sp.,02FV.Platycheirus nielseni,7.71E+02
+01PLANT.Prunus spinosa,02FV.Scathophaga stercoraria,3.94E+01
+01PLANT.Ranunculus acris,02FV.Pegoplata aestiva or Adia cinerella,1.47E+03
+01PLANT.Ranunculus repens,02FV.Agriotes pallidulus,1.97E+01
+01PLANT.Ranunculus repens,02FV.Alysiinae sp,4.95E+02
+01PLANT.Ranunculus repens,02FV.Asecodes coronis,1.11E+03
+01PLANT.Ranunculus repens,02FV.Botanophila striolata,5.35E+02
+01PLANT.Ranunculus repens,02FV.Bracon sp,1.90E+01
+01PLANT.Ranunculus repens,02FV.Cantharis nigra,7.61E+02
+01PLANT.Ranunculus repens,02FV.Cecidomyiidae sp,3.70E+02
+01PLANT.Ranunculus repens,02FV.Cephus pygmaeus,5.84E+01
+01PLANT.Ranunculus repens,02FV.Ceraphron trissacantha,7.20E+02
+01PLANT.Ranunculus repens,02FV.Cheilosia albitarsis,7.75E+02
+01PLANT.Ranunculus repens,02FV.Chloromyia formosa,1.35E+03
+01PLANT.Ranunculus repens,02FV.Chorebus sp nov,1.48E+03
+01PLANT.Ranunculus repens,02FV.Chromatomyia nigra,4.97E+01
+01PLANT.Ranunculus repens,02FV.Chrysotus sp,4.97E+01
+01PLANT.Ranunculus repens,02FV.Delia sp,9.00E+03
+01PLANT.Ranunculus repens,02FV.Demetrias atricapillus,6.05E+02
+01PLANT.Ranunculus repens,02FV.Desmometopa sp,7.48E+02
+01PLANT.Ranunculus repens,02FV.Diplonevra sp,1.59E+03
+01PLANT.Ranunculus repens,02FV.Dolichopus festivus,6.87E+01
+01PLANT.Ranunculus repens,02FV.Empis livida,3.87E+03
+01PLANT.Ranunculus repens,02FV.Episyrphus balteatus,7.48E+02
+01PLANT.Ranunculus repens,02FV.Fannia sp,1.18E+02
+01PLANT.Ranunculus repens,02FV.Formicidae B,1.52E+03
+01PLANT.Ranunculus repens,02FV.Geomyza tripunctata,9.52E+02
+01PLANT.Ranunculus repens,02FV.Glyphipterix simpliciella,1.03E+03
+01PLANT.Ranunculus repens,02FV.Helina sp,7.40E+02
+01PLANT.Ranunculus repens,02FV.Hemicrepidius hirtus,4.97E+01
+01PLANT.Ranunculus repens,02FV.Hydrellia griseola,1.11E+03
+01PLANT.Ranunculus repens,02FV.Hydrellia maura,7.59E+02
+01PLANT.Ranunculus repens,02FV.Hylaeus hyalinatus,2.78E+02
+01PLANT.Ranunculus repens,02FV.Hylemya urbica/variata,4.76E+02
+01PLANT.Ranunculus repens,02FV.Hylemya vagans,4.97E+01
+01PLANT.Ranunculus repens,02FV.Hylemya variata,2.78E+02
+01PLANT.Ranunculus repens,02FV.Limnia unguicornis,1.31E+01
+01PLANT.Ranunculus repens,02FV.Lonchoptera lutea,6.55E+02
+01PLANT.Ranunculus repens,02FV.Lotophila atra,1.22E+03
+01PLANT.Ranunculus repens,02FV.Malachius bipustulatus,8.16E+02
+01PLANT.Ranunculus repens,02FV.Megaselia sp,1.90E+01
+01PLANT.Ranunculus repens,02FV.Melangyna sp,2.41E+03
+01PLANT.Ranunculus repens,02FV.Melanostoma mellinum,1.80E+03
+01PLANT.Ranunculus repens,02FV.Melanostoma sp,1.97E+01
+01PLANT.Ranunculus repens,02FV.Metopina sp,5.14E+03
+01PLANT.Ranunculus repens,02FV.Micropterix calthella,8.33E+02
+01PLANT.Ranunculus repens,02FV.Oedemera lurida,6.77E+02
+01PLANT.Ranunculus repens,02FV.Oedemera nobilis,2.28E+03
+01PLANT.Ranunculus repens,02FV.Opomyza germinationis,1.53E+03
+01PLANT.Ranunculus repens,02FV.Opomyza petrei,4.97E+01
+01PLANT.Ranunculus repens,02FV.Oscinella frit,3.04E+02
+01PLANT.Ranunculus repens,02FV.Oscinella hortensis,1.31E+01
+01PLANT.Ranunculus repens,02FV.Oscinella nigerrima,4.97E+01
+01PLANT.Ranunculus repens,02FV.Oscinella nitidissima,3.45E+02
+01PLANT.Ranunculus repens,02FV.Pegoplata aestiva or Adia cinerella,2.91E+04
+01PLANT.Ranunculus repens,02FV.Pegoplata infirma,9.94E+01
+01PLANT.Ranunculus repens,02FV.Phyllonorycter sp,9.94E+01
+01PLANT.Ranunculus repens,02FV.Phytomyza cineracea,9.94E+01
+01PLANT.Ranunculus repens,02FV.Phytomyza notata,4.76E+02
+01PLANT.Ranunculus repens,02FV.Platycheirus albimanus,7.72E+02
+01PLANT.Ranunculus repens,02FV.Platycheirus clypeatus,6.05E+02
+01PLANT.Ranunculus repens,02FV.Platypalpus sp,6.53E+00
+01PLANT.Ranunculus repens,02FV.Psallinae sp,4.76E+02
+01PLANT.Ranunculus repens,02FV.Pteromalidae,4.76E+02
+01PLANT.Ranunculus repens,02FV.Rhagio notatus,7.40E+02
+01PLANT.Ranunculus repens,02FV.Rhagio tringarius,1.48E+03
+01PLANT.Ranunculus repens,02FV.Rhagonycha fulva,4.97E+01
+01PLANT.Ranunculus repens,02FV.Rhingia campestris,2.78E+02
+01PLANT.Ranunculus repens,02FV.Rhoptromeris heptoma,1.48E+03
+01PLANT.Ranunculus repens,02FV.Saltella sphondylii,4.76E+02
+01PLANT.Ranunculus repens,02FV.Scathophaga stercoraria,6.81E+03
+01PLANT.Ranunculus repens,02FV.Scatopsidae sp,1.11E+03
+01PLANT.Ranunculus repens,02FV.Sciaridae sp,4.76E+02
+01PLANT.Ranunculus repens,02FV.Sepsis cynipsea or neocynipsea,9.52E+02
+01PLANT.Ranunculus repens,02FV.Sepsis fulgens,7.40E+02
+01PLANT.Ranunculus repens,02FV.Siphona geniculata,1.16E+03
+01PLANT.Ranunculus repens,02FV.Sphaerophoria sp,2.84E+03
+01PLANT.Ranunculus repens,02FV.Stenomalina sp,2.41E+03
+01PLANT.Ranunculus repens,02FV.Tetrastichinae sp,1.48E+03
+01PLANT.Ranunculus repens,02FV.Triphleba sp,1.12E+03
+01PLANT.Ranunculus repens,02FV.Tytthaspis sedecimpunctata,1.90E+01
+01PLANT.Rosa sp.,02FV.Anaspis maculata,3.94E+01
+01PLANT.Rosa sp.,02FV.Anaspis pulicaria,2.36E+02
+01PLANT.Rosa sp.,02FV.Byturus tomentosus,3.94E+01
+01PLANT.Rosa sp.,02FV.Epuraea melanocephala,1.58E+02
+01PLANT.Rosa sp.,02FV.Pegoplata aestiva or Adia cinerella,3.94E+01
+01PLANT.Rubus fruticosus,02FV.Anaspis pulicaria,4.97E+01
+01PLANT.Rubus fruticosus,02FV.Apis mellifera,4.14E+02
+01PLANT.Rubus fruticosus,02FV.Baccha elongate,7.46E+01
+01PLANT.Rubus fruticosus,02FV.Bombus hortorum,4.97E+01
+01PLANT.Rubus fruticosus,02FV.Bombus lapidarius,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Bombus pascuorum,3.94E+01
+01PLANT.Rubus fruticosus,02FV.Bombus terrestris,5.91E+01
+01PLANT.Rubus fruticosus,02FV.Brachypterus urticae,9.94E+01
+01PLANT.Rubus fruticosus,02FV.Cantharis nigra,7.88E+01
+01PLANT.Rubus fruticosus,02FV.Cephus pygmaeus,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Chrysotus sp,2.13E+02
+01PLANT.Rubus fruticosus,02FV.Coccinella septempunctata,3.94E+01
+01PLANT.Rubus fruticosus,02FV.Crossopalpus sp,3.94E+01
+01PLANT.Rubus fruticosus,02FV.Empis livida,4.36E+02
+01PLANT.Rubus fruticosus,02FV.Episyrphus balteatus,1.89E+02
+01PLANT.Rubus fruticosus,02FV.Eristalis pertinax,1.34E+02
+01PLANT.Rubus fruticosus,02FV.Fannia sp,9.94E+01
+01PLANT.Rubus fruticosus,02FV.Hylemya variata,7.46E+01
+01PLANT.Rubus fruticosus,02FV.Ichneumonidae,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Malthodes minimus,3.94E+01
+01PLANT.Rubus fruticosus,02FV.Melanostoma scalare,1.18E+02
+01PLANT.Rubus fruticosus,02FV.Neoascia podagrica,9.94E+01
+01PLANT.Rubus fruticosus,02FV.Oedemera nobilis,1.39E+02
+01PLANT.Rubus fruticosus,02FV.Pegoplata aestiva or Adia cinerella,8.91E+01
+01PLANT.Rubus fruticosus,02FV.Platycheirus albimanus,1.93E+02
+01PLANT.Rubus fruticosus,02FV.Platycheirus nielseni,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Platycheirus peltatus,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Pollenia pediculata,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Rhagonycha fulva,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Rhinophora lepida,7.88E+01
+01PLANT.Rubus fruticosus,02FV.Scathophaga stercoraria,4.97E+01
+01PLANT.Rubus fruticosus,02FV.Sepsis cynipsea or neocynipsea,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Sepsis flavimana,3.94E+01
+01PLANT.Rubus fruticosus,02FV.Siphona geniculata,1.49E+02
+01PLANT.Rubus fruticosus,02FV.Sphaerophoria sp,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Syritta pipiens,1.97E+01
+01PLANT.Rubus fruticosus,02FV.Trybliographa erythrocera,3.94E+01
+01PLANT.Senacio jacobaea,02FV.Botanophila fugax,1.31E+01
+01PLANT.Senacio jacobaea,02FV.Calliphora vomitoria,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Eriothrix rufomaculata,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Eristalis arbustorum,1.31E+01
+01PLANT.Senacio jacobaea,02FV.Eristalis pertinax,1.31E+01
+01PLANT.Senacio jacobaea,02FV.Eristalis tenax,1.74E+01
+01PLANT.Senacio jacobaea,02FV.Eupeodes corollae,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Herina longistylata,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Lucilia caesar,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Lucilia richardsi,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Lucilia sericata,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Melinda viridicyanea,1.31E+01
+01PLANT.Senacio jacobaea,02FV.Neomyia cornicina,1.31E+01
+01PLANT.Senacio jacobaea,02FV.Neomyia viridescens,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Platycheirus albimanus,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Psocoptera sp,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Pyronia tithonus,1.96E+01
+01PLANT.Senacio jacobaea,02FV.Sicus ferrugineus,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Sphaerophoria rueppellii,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Sphaerophoria scripta,6.53E+00
+01PLANT.Senacio jacobaea,02FV.Sphaerophoria sp,5.88E+01
+01PLANT.Senacio jacobaea,02FV.Syritta pipiens,1.31E+01
+01PLANT.Silene dioica,02FV.Bicellaria vana,1.97E+01
+01PLANT.Silene dioica,02FV.Bicellaria varia,3.94E+01
+01PLANT.Silene dioica,02FV.Bracon sp,1.97E+01
+01PLANT.Silene dioica,02FV.Empis livida,3.94E+01
+01PLANT.Silene dioica,02FV.Melanostoma scalare,1.97E+01
+01PLANT.Silene dioica,02FV.Ophiomyia sp,3.94E+01
+01PLANT.Silene dioica,02FV.Pipiza noctiluca,1.97E+01
+01PLANT.Silene dioica,02FV.Platycheirus albimanus,1.97E+01
+01PLANT.Sinapis arvensis,02FV.Andrena dorsata,7.48E+02
+01PLANT.Sinapis arvensis,02FV.Cantharis nigra,1.80E+03
+01PLANT.Sinapis arvensis,02FV.Centrorhynchus obstrictus,1.80E+03
+01PLANT.Sinapis arvensis,02FV.Cephus pygmaeus,7.48E+02
+01PLANT.Sinapis arvensis,02FV.Cetema elongata,7.20E+02
+01PLANT.Sinapis arvensis,02FV.Chrysotus sp,7.20E+02
+01PLANT.Sinapis arvensis,02FV.Delia sp,7.23E+03
+01PLANT.Sinapis arvensis,02FV.Diospilus capito,7.20E+02
+01PLANT.Sinapis arvensis,02FV.Empis livida,1.41E+04
+01PLANT.Sinapis arvensis,02FV.Lonchoptera lutea,7.20E+02
+01PLANT.Sinapis arvensis,02FV.Melanostoma mellinum,6.66E+02
+01PLANT.Sinapis arvensis,02FV.Olibrus aeneus,1.80E+03
+01PLANT.Sinapis arvensis,02FV.Oscinella frit,2.16E+03
+01PLANT.Sinapis arvensis,02FV.Pegoplata aestiva or Adia cinerella,1.52E+03
+01PLANT.Sinapis arvensis,02FV.Phradis morionellus,7.20E+02
+01PLANT.Sinapis arvensis,02FV.Scathophaga stercoraria,6.66E+02
+01PLANT.Sinapis arvensis,02FV.Scatopsidae sp,7.20E+02
+01PLANT.Sinapis arvensis,02FV.Sphaerophoria scripta,1.11E+03
+01PLANT.Sinapis arvensis,02FV.Tetramesa sp,7.48E+02
+01PLANT.Sonchus asper/oleraceus,02FV.Apis mellifera,6.53E+00
+01PLANT.Sonchus asper/oleraceus,02FV.Helophilus pendulus,7.48E+02
+01PLANT.Sonchus asper/oleraceus,02FV.Pegoplata aestiva or Adia cinerella,1.35E+03
+01PLANT.Sonchus asper/oleraceus,02FV.Sphaerophoria scripta,7.48E+02
+01PLANT.Sonchus asper/oleraceus,02FV.Sphaerophoria sp,6.53E+00
+01PLANT.Spergula arvensis,02FV.Empis nuntia,6.96E+02
+01PLANT.Stachys sylvatica,02FV.Bombus hortorum,2.94E+02
+01PLANT.Stellaria graminea,02FV.Empis livida,2.61E+01
+01PLANT.Torilis japonica,02FV.Cheilosia pagana,4.97E+01
+01PLANT.Torilis japonica,02FV.Cheilosia proxima,4.97E+01
+01PLANT.Torilis japonica,02FV.Cheilosia proxima D,4.97E+01
+01PLANT.Torilis japonica,02FV.Coenosia tigrina,4.97E+01
+01PLANT.Torilis japonica,02FV.Copromyza similes,3.94E+01
+01PLANT.Torilis japonica,02FV.Ectemnius cephalotes,4.97E+01
+01PLANT.Torilis japonica,02FV.Episyrphus balteatus,1.39E+02
+01PLANT.Torilis japonica,02FV.Melanostoma scalare,3.94E+01
+01PLANT.Torilis japonica,02FV.Musca autumnalis,4.97E+01
+01PLANT.Torilis japonica,02FV.Neoascia podagrica,5.25E+01
+01PLANT.Torilis japonica,02FV.Neomyia cornicina,4.97E+01
+01PLANT.Torilis japonica,02FV.Oscinella nitidissima,4.97E+01
+01PLANT.Torilis japonica,02FV.Pegoplata infirma,4.97E+01
+01PLANT.Torilis japonica,02FV.Plagiatrochus sp,3.94E+01
+01PLANT.Torilis japonica,02FV.Platycheirus albimanus,1.29E+02
+01PLANT.Torilis japonica,02FV.Platycheirus clypeatus,4.97E+01
+01PLANT.Torilis japonica,02FV.Pollenia pediculata,4.97E+01
+01PLANT.Torilis japonica,02FV.Rhagonycha fulva,9.94E+01
+01PLANT.Torilis japonica,02FV.Rhinophora lepida,3.94E+01
+01PLANT.Torilis japonica,02FV.Sepsis flavimana,3.94E+01
+01PLANT.Torilis japonica,02FV.Sussaba cognata,3.94E+01
+01PLANT.Trifolium pratense/repens,02FV.Alysiinae sp,4.76E+02
+01PLANT.Trifolium pratense/repens,02FV.Anthomyia pluvialis,6.05E+02
+01PLANT.Trifolium pratense/repens,02FV.Apis mellifera,3.65E+03
+01PLANT.Trifolium pratense/repens,02FV.Aprostocetus sp,4.76E+02
+01PLANT.Trifolium pratense/repens,02FV.Bombus hortorum,1.21E+03
+01PLANT.Trifolium pratense/repens,02FV.Bombus lapidarius,1.19E+04
+01PLANT.Trifolium pratense/repens,02FV.Bombus pascuorum,8.66E+03
+01PLANT.Trifolium pratense/repens,02FV.Bombus pratorum,7.89E+02
+01PLANT.Trifolium pratense/repens,02FV.Bombus terrestris,5.87E+03
+01PLANT.Trifolium pratense/repens,02FV.Bombus vestalis,9.52E+02
+01PLANT.Trifolium pratense/repens,02FV.Chrysotus sp,1.11E+03
+01PLANT.Trifolium pratense/repens,02FV.Empis livida,2.41E+03
+01PLANT.Trifolium pratense/repens,02FV.Eupeodes corollae,4.76E+02
+01PLANT.Trifolium pratense/repens,02FV.Maniola jurtina,7.40E+02
+01PLANT.Trifolium pratense/repens,02FV.Metasyrphus luniger,4.76E+02
+01PLANT.Trifolium pratense/repens,02FV.Norellisoma spinimanum,1.90E+01
+01PLANT.Trifolium pratense/repens,02FV.Oedemera nobilis,4.97E+01
+01PLANT.Trifolium pratense/repens,02FV.Pegoplata aestiva or Adia cinerella,4.97E+01
+01PLANT.Trifolium pratense/repens,02FV.Phyllobius virideaeris,8.33E+02
+01PLANT.Trifolium pratense/repens,02FV.Platycheirus albimanus,1.97E+01
+01PLANT.Trifolium pratense/repens,02FV.Platypalpus sp,2.22E+03
+01PLANT.Trifolium pratense/repens,02FV.Pollenia amentaria,2.41E+03
+01PLANT.Trifolium pratense/repens,02FV.Pollenia pediculata,9.94E+01
+01PLANT.Trifolium pratense/repens,02FV.Sarcophaga carnaria,6.05E+02
+01PLANT.Trifolium pratense/repens,02FV.Scaptomyza pallida,2.41E+03
+01PLANT.Trifolium pratense/repens,02FV.Scathophaga stercoraria,4.29E+03
+01PLANT.Trifolium pratense/repens,02FV.Scatopsidae sp,1.11E+03
+01PLANT.Trifolium pratense/repens,02FV.Sitona puncticollis,2.41E+03
+01PLANT.Trifolium pratense/repens,02FV.Syrphus ribesii,1.90E+01
+01PLANT.Veronica chamaedrys,02FV.Hercostomus parvilamellatus,7.46E+01
+01PLANT.Veronica persica,02FV.Longitarsus sp,7.20E+02
+01PLANT.Veronica persica,02FV.Pegoplata aestiva or Adia cinerella,1.15E+03
+01PLANT.Viburnum lanatum,02FV.Empis livida,8.71E+00
+01PLANT.Viburnum lanatum,02FV.Pollenia pediculata,6.53E+00
+01PLANT.Vicia hirsute,02FV.Cantharis nigra,1.47E+03
+01PLANT.Vicia hirsute,02FV.Empis livida,2.99E+03
+01PLANT.Vicia hirsute,02FV.Fannia sp,7.48E+02
+01PLANT.Vicia sativa,02FV.Bombus pascuorum,4.97E+01
+01PLANT.Vicia sativa,02FV.Empis livida,9.94E+01
+01PLANT.Vicia sepium,02FV.Syritta pipiens,9.94E+01
+01PLANT.× Triticosecale ,03APH.Sitobion avenae,2.02E+06
+01PLANT.Aphanes arvensis,03APH.Myzus persicae,3.74E+04
+01PLANT.Avena sativa winter-sown,03APH.Metopolophium dihrodum,6.35E+05
+01PLANT.Avena sativa winter-sown,03APH.Sitobion avenae,8.31E+04
+01PLANT.Cerastium fontanum,03APH.Myzus persicae,9.82E+04
+01PLANT.Cirsium arvense,03APH.Capitophorus elaeagnii,4.04E+05
+01PLANT.Cirsium arvense,03APH.Uroleucon aeneum,9.67E+07
+01PLANT.Cirsium arvense,03APH.Uroleucon cirsii,6.66E+07
+01PLANT.Cirsium vulgare,03APH.Hyperomyzus lactucae,8.29E+05
+01PLANT.Corylus avellana,03APH.Myzocallis coryli,1.60E+03
+01PLANT.Crataegus monogyna,03APH.Dysaphis species 1,1.45E+02
+01PLANT.Euonymus europaeus,03APH.Aphis fabae,7.26E+02
+01PLANT.Galium aparine,03APH.Aphis galiiscabri,4.43E+05
+01PLANT.Heracleum sphondylium,03APH.Cavariella aegopodii,1.70E+06
+01PLANT.Lamiastrum galeobdolon,03APH.Aphid species 1,2.49E+03
+01PLANT.Matricaria discoidea,03APH.Brachycaudus helichrysii,6.05E+05
+01PLANT.Matricaria recutita,03APH.Brachycaudus helichrysii,1.15E+08
+01PLANT.Myosotis arvensis,03APH.Brachycaudus helichrysii,5.37E+06
+01PLANT.Plantago sp.,03APH.Brachycaudus helichrysii,2.38E+04
+01PLANT.Poaceae,03APH.Cavariella aegopodii,8.22E+03
+01PLANT.Poaceae,03APH.Metopolophium dihrodum,5.16E+04
+01PLANT.Poaceae,03APH.Sipha maydis,2.99E+07
+01PLANT.Poaceae,03APH.Sitobion avenae,2.21E+07
+01PLANT.Prunus spinosa,03APH.Phorodon humuli,1.13E+04
+01PLANT.Ranunculus repens,03APH.Tubaphis ranunculina,1.21E+06
+01PLANT.Rosa sp.,03APH.Sitobion fragariae,3.45E+04
+01PLANT.Rubus fruticosus,03APH.Macrosiphum funestum,1.05E+05
+01PLANT.Rumex sp.,03APH.Aphis rumicis,9.20E+06
+01PLANT.Scrophularia auriculata,03APH.Myzus persicae,2.76E+03
+01PLANT.Sinapis arvensis,03APH.Lipaphys erysimi,2.01E+06
+01PLANT.Sonchus asper/oleraceus,03APH.Hyperomyzus lactucae,1.23E+06
+01PLANT.Sonchus asper/oleraceus,03APH.Uroleucon sonchi,3.23E+05
+01PLANT.Stachys sylvatica,03APH.Cryptomyzus korschelti,6.63E+03
+01PLANT.Trifolium pratense/repens,03APH.Acyrthosiphon pisum,2.98E+05
+01PLANT.Trifolium pratense/repens,03APH.Therioaphis trifoli,6.05E+04
+01PLANT.Triticum aestivum,03APH.Sitobion avenae,1.53E+07
+01PLANT.Urtica dioica,03APH.Aphis urticae,5.25E+03
+01PLANT.Urtica dioica,03APH.Microlophium carnosum,1.43E+05
+01PLANT.Veronica arvensis,03APH.Nasonvoia ribisnigri,1.95E+05
+01PLANT.× Triticosecale ,04PRIMARYPARA.Aphidius picipes?,1.29E+04
+01PLANT.× Triticosecale ,04PRIMARYPARA.Ephedrus plagiator,8.57E+03
+01PLANT.× Triticosecale ,04PRIMARYPARA.Praon volucre,8.57E+03
+01PLANT.Avena sativa winter-sown,04PRIMARYPARA.Aphidius matricariae,1.25E+04
+01PLANT.Avena sativa winter-sown,04PRIMARYPARA.Aphidius picipes?,1.25E+04
+01PLANT.Avena sativa winter-sown,04PRIMARYPARA.Aphidius rhopalosiphi?,2.08E+04
+01PLANT.Avena sativa winter-sown,04PRIMARYPARA.Ephedrus plagiator,8.31E+03
+01PLANT.Lamiastrum galeobdolon,04PRIMARYPARA.Praon exoletum?,8.29E+02
+01PLANT.Matricaria discoidea,04PRIMARYPARA.Aphidius matricariae,5.52E+02
+01PLANT.Matricaria discoidea,04PRIMARYPARA.Aphidius rhopalosiphi?,2.21E+03
+01PLANT.Matricaria recutita,04PRIMARYPARA.Aphidius matricariae,1.25E+04
+01PLANT.Poaceae,04PRIMARYPARA.Aphidius ervi,6.76E+04
+01PLANT.Poaceae,04PRIMARYPARA.Aphidius funebris,5.52E+02
+01PLANT.Poaceae,04PRIMARYPARA.Aphidius picipes?,2.51E+04
+01PLANT.Poaceae,04PRIMARYPARA.Aphidius rhopalosiphi?,2.38E+03
+01PLANT.Poaceae,04PRIMARYPARA.Ephedrus plagiator,5.04E+04
+01PLANT.Poaceae,04PRIMARYPARA.Praon volucre,2.46E+04
+01PLANT.Ranunculus repens,04PRIMARYPARA.Praon exoletum?,8.57E+03
+01PLANT.Ranunculus repens,04PRIMARYPARA.Praon sp nr flavinode,1.23E+04
+01PLANT.Ranunculus repens,04PRIMARYPARA.Praon volucre,2.46E+04
+01PLANT.Rubus fruticosus,04PRIMARYPARA.Aphidius ervi,3.28E+02
+01PLANT.Sonchus asper/oleraceus,04PRIMARYPARA.Aphidius ervi,1.01E+04
+01PLANT.Trifolium pratense/repens,04PRIMARYPARA.Aphidius ervi,9.46E+04
+01PLANT.Trifolium pratense/repens,04PRIMARYPARA.Aphidius rhopalosiphi?,6.72E+03
+01PLANT.Trifolium pratense/repens,04PRIMARYPARA.Praon dorsale?,6.72E+03
+01PLANT.Triticum aestivum,04PRIMARYPARA.Aphidius ervi,9.82E+04
+01PLANT.Triticum aestivum,04PRIMARYPARA.Aphidius picipes?,2.46E+04
+01PLANT.Triticum aestivum,04PRIMARYPARA.Aphidius rhopalosiphi?,7.36E+04
+01PLANT.Triticum aestivum,04PRIMARYPARA.Ephedrus plagiator,4.91E+04
+01PLANT.Triticum aestivum,04PRIMARYPARA.Praon volucre,7.36E+04
+01PLANT.Urtica dioica,04PRIMARYPARA.Aphidius ervi,1.16E+03
+01PLANT.Urtica dioica,04PRIMARYPARA.Trioxys B,1.66E+03
+01PLANT.Avena sativa winter-sown,05SECONDARYPARA.Alloxysta victrix,8.31E+03
+01PLANT.Avena sativa winter-sown,05SECONDARYPARA.Asaphes suspensus,1.25E+04
+01PLANT.Cirsium arvense,05SECONDARYPARA.Alloxysta victrix,5.52E+02
+01PLANT.Crataegus monogyna,05SECONDARYPARA.Alloxysta victrix,1.45E+02
+01PLANT.Lamiastrum galeobdolon,05SECONDARYPARA.Dendrocerus aphidum,8.29E+02
+01PLANT.Matricaria discoidea,05SECONDARYPARA.Asaphes suspensus,3.09E+04
+01PLANT.Matricaria discoidea,05SECONDARYPARA.Dendrocerus aphidum,1.66E+03
+01PLANT.Matricaria discoidea,05SECONDARYPARA.Dendrocerus carpenteri,5.52E+02
+01PLANT.Myosotis arvensis,05SECONDARYPARA.Alloxysta victrix,8.31E+03
+01PLANT.Myosotis arvensis,05SECONDARYPARA.Asaphes suspensus,5.81E+04
+01PLANT.Myosotis arvensis,05SECONDARYPARA.Dendrocerus aphidum,8.31E+03
+01PLANT.Poaceae,05SECONDARYPARA.Alloxysta victrix,5.23E+04
+01PLANT.Poaceae,05SECONDARYPARA.Asaphes suspensus,9.90E+03
+01PLANT.Poaceae,05SECONDARYPARA.Asaphes vulgaris,9.28E+03
+01PLANT.Poaceae,05SECONDARYPARA.Coruna clavata,7.26E+01
+01PLANT.Poaceae,05SECONDARYPARA.Dendrocerus aphidum,3.99E+04
+01PLANT.Poaceae,05SECONDARYPARA.Dendrocerus carpenteri,2.24E+03
+01PLANT.Poaceae,05SECONDARYPARA.Pachyneuron sp,5.52E+02
+01PLANT.Prunus spinosa,05SECONDARYPARA.Asaphes vulgaris,3.28E+02
+01PLANT.Prunus spinosa,05SECONDARYPARA.Dendrocerus carpenteri,2.19E+02
+01PLANT.Ranunculus repens,05SECONDARYPARA.Alloxysta victrix,5.29E+03
+01PLANT.Rumex sp.,05SECONDARYPARA.Dendrocerus carpenteri,1.08E+05
+01PLANT.Trifolium pratense/repens,05SECONDARYPARA.Alloxysta victrix,6.72E+04
+01PLANT.Trifolium pratense/repens,05SECONDARYPARA.Asaphes suspensus,8.22E+04
+01PLANT.Trifolium pratense/repens,05SECONDARYPARA.Asaphes vulgaris,2.69E+04
+01PLANT.Trifolium pratense/repens,05SECONDARYPARA.Dendrocerus carpenteri,6.72E+03
+01PLANT.Triticum aestivum,05SECONDARYPARA.Alloxysta victrix,1.39E+05
+01PLANT.Triticum aestivum,05SECONDARYPARA.Asaphes suspensus,2.13E+05
+01PLANT.Triticum aestivum,05SECONDARYPARA.Asaphes vulgaris,4.91E+04
+01PLANT.Triticum aestivum,05SECONDARYPARA.Dendrocerus carpenteri,2.95E+05
+01PLANT.Urtica dioica,05SECONDARYPARA.Alloxysta victrix,8.75E+02
+01PLANT.× Triticosecale ,06MINERPARA.Diglyphus isaea,3.87E+03
+01PLANT.× Triticosecale ,06MINERPARA.Seladerma diffine,3.87E+03
+01PLANT.Acer campestre,06MINERPARA.Achrysocharoides acerianus,1.13E+04
+01PLANT.Acer campestre,06MINERPARA.Microgastrinae sp,5.65E+03
+01PLANT.Anthriscus sylvestris,06MINERPARA.Dacnusa maculipes/confinis,6.57E+02
+01PLANT.Anthriscus sylvestris,06MINERPARA.Exotela cyclogaster,2.19E+02
+01PLANT.Anthriscus sylvestris,06MINERPARA.Miscogaster maculata,6.57E+02
+01PLANT.Arctium minus,06MINERPARA.Anagrus sp A,8.29E+02
+01PLANT.Arctium minus,06MINERPARA.Chrysocharis viridis,2.49E+03
+01PLANT.Avena sativa spring-sown,06MINERPARA.Dacnusa maculipes/confinis,1.60E+04
+01PLANT.Avena sativa spring-sown,06MINERPARA.Diglyphus isaea,2.80E+04
+01PLANT.Bellis perennis,06MINERPARA.Desmiostoma parvulum,4.93E+04
+01PLANT.Cerastium fontanum,06MINERPARA.Pnigalio soemius,1.93E+04
+01PLANT.Chaerophyllum temulum,06MINERPARA.Diglyphus isaea,8.29E+02
+01PLANT.Cirsium arvense,06MINERPARA.Alysiinae sp,3.87E+03
+01PLANT.Cirsium arvense,06MINERPARA.Anagrus sp B,1.90E+04
+01PLANT.Cirsium arvense,06MINERPARA.Asaphes suspensus,6.39E+03
+01PLANT.Cirsium arvense,06MINERPARA.Campoplex sp,9.68E+01
+01PLANT.Cirsium arvense,06MINERPARA.Chelonus sp,1.54E+03
+01PLANT.Cirsium arvense,06MINERPARA.Chelonus sp aff rimatus,6.57E+02
+01PLANT.Cirsium arvense,06MINERPARA.Chrysocharis orbicularis,4.09E+03
+01PLANT.Cirsium arvense,06MINERPARA.Chrysocharis pubicornis,2.46E+04
+01PLANT.Cirsium arvense,06MINERPARA.Chrysocharis viridis,6.61E+04
+01PLANT.Cirsium arvense,06MINERPARA.Cyrtogaster vulgaris,7.02E+03
+01PLANT.Cirsium arvense,06MINERPARA.Dacnusa areolaris,1.96E+04
+01PLANT.Cirsium arvense,06MINERPARA.Dacnusa maculipes/confinis,1.90E+04
+01PLANT.Cirsium arvense,06MINERPARA.Dacnusa tarsalis,3.55E+05
+01PLANT.Cirsium arvense,06MINERPARA.Diglyphus isaea,4.10E+05
+01PLANT.Cirsium arvense,06MINERPARA.Exotela spinifer,1.91E+03
+01PLANT.Cirsium arvense,06MINERPARA.Forsterella sp,2.20E+03
+01PLANT.Cirsium arvense,06MINERPARA.Gelis bicolor,1.54E+03
+01PLANT.Cirsium arvense,06MINERPARA.Hemiptarsenus dropion,9.68E+01
+01PLANT.Cirsium arvense,06MINERPARA.Hemiptarsenus unguicellus,6.16E+03
+01PLANT.Cirsium arvense,06MINERPARA.Miscogaster maculata,9.68E+01
+01PLANT.Cirsium arvense,06MINERPARA.Opius sensu stricto lugens,1.34E+04
+01PLANT.Cirsium arvense,06MINERPARA.Phaedrotoma exigua,6.39E+03
+01PLANT.Cirsium arvense,06MINERPARA.Pnigalio soemius,7.26E+01
+01PLANT.Cirsium arvense,06MINERPARA.Seladerma diffine,6.79E+05
+01PLANT.Cirsium arvense,06MINERPARA.Seladerma tarsale,2.73E+04
+01PLANT.Cirsium vulgare,06MINERPARA.Dacnusa maculipes/confinis,4.38E+02
+01PLANT.Cirsium vulgare,06MINERPARA.Dacnusa tarsalis,6.55E+02
+01PLANT.Cirsium vulgare,06MINERPARA.Opiinae sp,5.52E+02
+01PLANT.Cirsium vulgare,06MINERPARA.Seladerma diffine,5.52E+02
+01PLANT.Corylus avellana,06MINERPARA.Colastes braconius,8.29E+02
+01PLANT.Crataegus monogyna,06MINERPARA.Achrysocharoides atys,1.53E+03
+01PLANT.Crataegus monogyna,06MINERPARA.Chrysocharis pentheus,1.94E+02
+01PLANT.Crataegus monogyna,06MINERPARA.Pnigalio soemius,9.68E+01
+01PLANT.Crataegus monogyna,06MINERPARA.Sympiesis sericeicornis,8.29E+02
+01PLANT.Dipsacus fullonum,06MINERPARA.Anagrus sp C,5.52E+02
+01PLANT.Dipsacus fullonum,06MINERPARA.Chorebus tanis,5.52E+02
+01PLANT.Glechoma hederacea,06MINERPARA.Colastes braconius,2.19E+02
+01PLANT.Heracleum sphondylium,06MINERPARA.Aphanogmus sp,5.52E+02
+01PLANT.Heracleum sphondylium,06MINERPARA.Apodesmia ocellata,7.71E+02
+01PLANT.Heracleum sphondylium,06MINERPARA.Chrysocharis pentheus,5.52E+02
+01PLANT.Heracleum sphondylium,06MINERPARA.Chrysocharis viridis,6.72E+03
+01PLANT.Heracleum sphondylium,06MINERPARA.Colastes braconius,2.92E+02
+01PLANT.Heracleum sphondylium,06MINERPARA.Dacnusa laevipectus,9.20E+03
+01PLANT.Heracleum sphondylium,06MINERPARA.Dacnusa maculipes/confinis,1.66E+03
+01PLANT.Heracleum sphondylium,06MINERPARA.Diglyphus isaea,1.63E+04
+01PLANT.Heracleum sphondylium,06MINERPARA.Exotela cyclogaster,5.11E+02
+01PLANT.Heracleum sphondylium,06MINERPARA.Synopeas rhanis,5.52E+02
+01PLANT.Hordeum vulgare,06MINERPARA.Cirrospilus vittatus,4.00E+03
+01PLANT.Hordeum vulgare,06MINERPARA.Dacnusa maculipes/confinis,4.00E+03
+01PLANT.Hordeum vulgare,06MINERPARA.Diglyphus isaea,1.60E+04
+01PLANT.Hordeum vulgare,06MINERPARA.Hemiptarsenus unguicellus,8.00E+03
+01PLANT.Lonicera periclymenum,06MINERPARA.Diglyphus isaea,2.19E+02
+01PLANT.Medicago sativa ssp. sativa,06MINERPARA.Chrysocharis pentheus,1.90E+04
+01PLANT.Medicago sativa ssp. sativa,06MINERPARA.Dacnusa maculipes/confinis,6.33E+03
+01PLANT.Medicago sativa ssp. sativa,06MINERPARA.Diglyphus isaea,1.39E+05
+01PLANT.Medicago sativa ssp. sativa,06MINERPARA.Pnigalio soemius,6.33E+03
+01PLANT.Poaceae,06MINERPARA.Alysiinae sp,1.48E+04
+01PLANT.Poaceae,06MINERPARA.Apodesmia irregularis,3.31E+03
+01PLANT.Poaceae,06MINERPARA.Apodesmia similis,1.24E+04
+01PLANT.Poaceae,06MINERPARA.Bracon sp,1.11E+03
+01PLANT.Poaceae,06MINERPARA.Chorebus A,2.19E+02
+01PLANT.Poaceae,06MINERPARA.Chorebus aphantus,9.95E+04
+01PLANT.Poaceae,06MINERPARA.Chorebus B,4.70E+03
+01PLANT.Poaceae,06MINERPARA.Chorebus C,5.52E+02
+01PLANT.Poaceae,06MINERPARA.Chorebus E,3.31E+03
+01PLANT.Poaceae,06MINERPARA.Chrysocharis orbicularis,3.31E+03
+01PLANT.Poaceae,06MINERPARA.Chrysocharis pentheus,7.71E+03
+01PLANT.Poaceae,06MINERPARA.Chrysocharis polyzo,1.77E+03
+01PLANT.Poaceae,06MINERPARA.Chrysocharis pubicornis,6.58E+04
+01PLANT.Poaceae,06MINERPARA.Colastes braconius,1.36E+04
+01PLANT.Poaceae,06MINERPARA.Coloneura (ate),7.26E+01
+01PLANT.Poaceae,06MINERPARA.Cyrtogaster vulgaris,1.07E+05
+01PLANT.Poaceae,06MINERPARA.Dacnusa adducta,2.19E+02
+01PLANT.Poaceae,06MINERPARA.Dacnusa areolaris,1.03E+05
+01PLANT.Poaceae,06MINERPARA.Dacnusa maculipes/confinis,2.17E+05
+01PLANT.Poaceae,06MINERPARA.Dacnusa tarsalis,1.66E+04
+01PLANT.Poaceae,06MINERPARA.Dapsilarthra rufiventris,2.45E+04
+01PLANT.Poaceae,06MINERPARA.Diglyphus chabrias,2.19E+02
+01PLANT.Poaceae,06MINERPARA.Diglyphus isaea,2.25E+05
+01PLANT.Poaceae,06MINERPARA.Epiclerus temenus,1.45E+02
+01PLANT.Poaceae,06MINERPARA.Eulophinae sp,2.50E+04
+01PLANT.Poaceae,06MINERPARA.Exotela flavicoxa,8.29E+02
+01PLANT.Poaceae,06MINERPARA.Forsterella sp,1.66E+03
+01PLANT.Poaceae,06MINERPARA.Gelis anthracinus,1.54E+03
+01PLANT.Poaceae,06MINERPARA.Hemiptarsenus dropion,3.14E+04
+01PLANT.Poaceae,06MINERPARA.Hemiptarsenus fulvicollis,5.73E+04
+01PLANT.Poaceae,06MINERPARA.Hemiptarsenus unguicellus,1.22E+05
+01PLANT.Poaceae,06MINERPARA.Miscogaster maculata,2.71E+04
+01PLANT.Poaceae,06MINERPARA.Opiinae sp,7.96E+03
+01PLANT.Poaceae,06MINERPARA.Pediobius acantha,1.92E+03
+01PLANT.Poaceae,06MINERPARA.Phaedrotoma exigua,8.84E+03
+01PLANT.Poaceae,06MINERPARA.Phaedrotoma variegata,1.66E+03
+01PLANT.Poaceae,06MINERPARA.Pnigalio soemius,8.31E+03
+01PLANT.Poaceae,06MINERPARA.Seladerma diffine,5.16E+03
+01PLANT.Poaceae,06MINERPARA.Seladerma tarsale,8.73E+04
+01PLANT.Poaceae,06MINERPARA.Torymus sp,2.19E+02
+01PLANT.Potentilla reptans,06MINERPARA.Bracon sp,1.66E+03
+01PLANT.Potentilla reptans,06MINERPARA.Colastes sp aff braconius,1.66E+03
+01PLANT.Prunus spinosa,06MINERPARA.Adelius sp,2.19E+02
+01PLANT.Prunus spinosa,06MINERPARA.Apanteles circumscriptus,5.84E+02
+01PLANT.Prunus spinosa,06MINERPARA.Bracon sp,2.19E+02
+01PLANT.Prunus spinosa,06MINERPARA.Chrysocharis pentheus,5.81E+02
+01PLANT.Prunus spinosa,06MINERPARA.Chrysocharis prodice,4.38E+02
+01PLANT.Prunus spinosa,06MINERPARA.Cirrospilus vittatus,2.13E+03
+01PLANT.Prunus spinosa,06MINERPARA.Diadegma crataegi,5.84E+02
+01PLANT.Prunus spinosa,06MINERPARA.Eulophinae sp,9.68E+01
+01PLANT.Prunus spinosa,06MINERPARA.Microgastrinae sp,2.92E+02
+01PLANT.Prunus spinosa,06MINERPARA.Pnigalio soemius,2.03E+03
+01PLANT.Pulicaria dysenterica,06MINERPARA.Bracon sp,6.16E+03
+01PLANT.Pulicaria dysenterica,06MINERPARA.Diglyphus isaea,3.70E+04
+01PLANT.Pulicaria dysenterica,06MINERPARA.Phaedrotoma exigua,6.16E+03
+01PLANT.Pulicaria dysenterica,06MINERPARA.Seladerma diffine,6.16E+03
+01PLANT.Quercus robur,06MINERPARA.Achrysocharoides butus,1.49E+05
+01PLANT.Quercus robur,06MINERPARA.Achrysocharoides latreillei,2.71E+05
+01PLANT.Quercus robur,06MINERPARA.Anagrus sp A,4.83E+04
+01PLANT.Quercus robur,06MINERPARA.Chrysocharis laomedon,9.35E+04
+01PLANT.Quercus robur,06MINERPARA.Cirrospilus diallus,9.47E+05
+01PLANT.Quercus robur,06MINERPARA.Cirrospilus lyncus,1.29E+05
+01PLANT.Quercus robur,06MINERPARA.Dacnusa areolaris,6.58E+03
+01PLANT.Quercus robur,06MINERPARA.Dacnusa maculipes/confinis,6.58E+03
+01PLANT.Quercus robur,06MINERPARA.Diglyphus isaea,1.97E+04
+01PLANT.Quercus robur,06MINERPARA.Eulophinae sp,2.20E+05
+01PLANT.Quercus robur,06MINERPARA.Microgastrinae sp,3.14E+05
+01PLANT.Quercus robur,06MINERPARA.Opius sensu stricto,1.32E+04
+01PLANT.Quercus robur,06MINERPARA.Pediobius saulius,4.83E+04
+01PLANT.Quercus robur,06MINERPARA.Pnigalio agraules,4.83E+04
+01PLANT.Quercus robur,06MINERPARA.Sympiesis gordius,2.72E+05
+01PLANT.Quercus robur,06MINERPARA.Sympiesis sericeicornis,4.27E+05
+01PLANT.Quercus robur,06MINERPARA.Trioxys A,1.07E+05
+01PLANT.Ranunculus repens,06MINERPARA.Alysiinae sp,3.87E+03
+01PLANT.Ranunculus repens,06MINERPARA.Anagrus sp A,3.29E+03
+01PLANT.Ranunculus repens,06MINERPARA.Aphanogmus microneurus,6.58E+03
+01PLANT.Ranunculus repens,06MINERPARA.Apodesmia A,3.22E+04
+01PLANT.Ranunculus repens,06MINERPARA.Apodesmia curvata,9.97E+03
+01PLANT.Ranunculus repens,06MINERPARA.Apodesmia similis,3.21E+04
+01PLANT.Ranunculus repens,06MINERPARA.Ascogaster varipes,9.68E+01
+01PLANT.Ranunculus repens,06MINERPARA.Chorebus fallaciosae,2.05E+05
+01PLANT.Ranunculus repens,06MINERPARA.Chrysocharis orbicularis,1.54E+04
+01PLANT.Ranunculus repens,06MINERPARA.Chrysocharis pentheus,2.33E+04
+01PLANT.Ranunculus repens,06MINERPARA.Chrysocharis pubicornis,4.69E+03
+01PLANT.Ranunculus repens,06MINERPARA.Chrysocharis viridis,9.26E+03
+01PLANT.Ranunculus repens,06MINERPARA.Cyrtogaster vulgaris,1.54E+03
+01PLANT.Ranunculus repens,06MINERPARA.Dacnusa areolaris,1.54E+03
+01PLANT.Ranunculus repens,06MINERPARA.Dacnusa laevipectus,2.19E+02
+01PLANT.Ranunculus repens,06MINERPARA.Dacnusa macrospila,8.39E+04
+01PLANT.Ranunculus repens,06MINERPARA.Dacnusa maculipes/confinis,8.55E+04
+01PLANT.Ranunculus repens,06MINERPARA.Dapsilarthra rufiventris,3.87E+03
+01PLANT.Ranunculus repens,06MINERPARA.Diglyphus isaea,4.14E+05
+01PLANT.Ranunculus repens,06MINERPARA.Epiclerus temenus,1.54E+03
+01PLANT.Ranunculus repens,06MINERPARA.Eulophinae sp,3.33E+04
+01PLANT.Ranunculus repens,06MINERPARA.Exotela gilvipes,6.16E+03
+01PLANT.Ranunculus repens,06MINERPARA.Hemiptarsenus dropion,9.11E+03
+01PLANT.Ranunculus repens,06MINERPARA.Hemiptarsenus unguicellus,1.54E+03
+01PLANT.Ranunculus repens,06MINERPARA.Opius sp,1.74E+04
+01PLANT.Ranunculus repens,06MINERPARA.Phaedrotoma exigua,3.16E+04
+01PLANT.Ranunculus repens,06MINERPARA.Pnigalio soemius,2.06E+04
+01PLANT.Ranunculus repens,06MINERPARA.Seladerma diffine,5.90E+04
+01PLANT.Ranunculus repens,06MINERPARA.Seladerma tarsale,2.61E+03
+01PLANT.Rubus fruticosus,06MINERPARA.Adelius sp,7.71E+02
+01PLANT.Rubus fruticosus,06MINERPARA.Chrysocharis pentheus,2.19E+02
+01PLANT.Rubus fruticosus,06MINERPARA.Chrysocharis prodice,1.88E+03
+01PLANT.Rubus fruticosus,06MINERPARA.Colastes braconius,8.29E+02
+01PLANT.Rubus fruticosus,06MINERPARA.Pnigalio soemius,8.29E+02
+01PLANT.Rumex sp.,06MINERPARA.Adelurola florimela,7.29E+02
+01PLANT.Rumex sp.,06MINERPARA.Apodesmia rufipes,9.68E+01
+01PLANT.Rumex sp.,06MINERPARA.Bracon sp,2.19E+02
+01PLANT.Sinapis arvensis,06MINERPARA.Chrysocharis chilo,4.00E+03
+01PLANT.Sinapis arvensis,06MINERPARA.Dacnusa temula,1.60E+04
+01PLANT.Sinapis arvensis,06MINERPARA.Diglyphus isaea,4.00E+03
+01PLANT.Sinapis arvensis,06MINERPARA.Pnigalio soemius,8.00E+03
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Chelonus scabrosus,9.68E+01
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Chorebus leptogaster,1.87E+04
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Chrysocharis pentheus,3.29E+03
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Chrysocharis pubicornis,3.29E+03
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Dacnusa areolaris,6.39E+03
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Dacnusa maculipes/confinis,6.39E+03
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Diglyphus isaea,3.42E+04
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Hemiptarsenus dropion,4.00E+03
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Ionympha carne,4.00E+03
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Phaedrotoma exigua,6.58E+03
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Seladerma diffine,1.54E+04
+01PLANT.Sonchus asper/oleraceus,06MINERPARA.Seladerma tarsale,1.54E+04
+01PLANT.Trifolium pratense/repens,06MINERPARA.Chrysocharis orbicularis,3.29E+03
+01PLANT.Trifolium pratense/repens,06MINERPARA.Chrysocharis polyzo,2.06E+03
+01PLANT.Trifolium pratense/repens,06MINERPARA.Chrysocharis viridis,1.11E+03
+01PLANT.Trifolium pratense/repens,06MINERPARA.Colastes braconius,3.29E+03
+01PLANT.Trifolium pratense/repens,06MINERPARA.Diglyphus isaea,5.54E+04
+01PLANT.Trifolium pratense/repens,06MINERPARA.Eulophinae sp,2.46E+04
+01PLANT.Trifolium pratense/repens,06MINERPARA.Hemiptarsenus unguicellus,1.03E+04
+01PLANT.Trifolium pratense/repens,06MINERPARA.Opius sensu stricto lugens,8.22E+03
+01PLANT.Trifolium pratense/repens,06MINERPARA.Pnigalio soemius,8.22E+03
+01PLANT.Triticum aestivum,06MINERPARA.Chorebus B,1.54E+04
+01PLANT.Ulmus sp.,06MINERPARA.Anagrus sp A,4.17E+03
+01PLANT.Ulmus sp.,06MINERPARA.Bracon sp,2.19E+02
+01PLANT.Urtica dioica,06MINERPARA.Anagrus sp A,6.63E+03
+01PLANT.Urtica dioica,06MINERPARA.Chorebus lateralis,8.29E+02
+01PLANT.Urtica dioica,06MINERPARA.Diglyphus isaea,8.29E+02
+01PLANT.Urtica dioica,06MINERPARA.Miscogaster hortensis,8.29E+02
+01PLANT.Urtica dioica,06MINERPARA.Pnigalio soemius,9.68E+01
+01PLANT.Veronica arvensis,06MINERPARA.Chorebus amasis,1.32E+04
+01PLANT.Veronica persica,06MINERPARA.Chorebus amasis,7.29E+03
+01PLANT.Veronica persica,06MINERPARA.Chrysocharis orbicularis,3.29E+03
+01PLANT.Veronica persica,06MINERPARA.Phaedrotoma exigua,4.00E+03
+01PLANT.Vicia sativa,06MINERPARA.Chrysocharis pubicornis,5.52E+02
+01PLANT.Vicia sativa,06MINERPARA.Diglyphus isaea,2.76E+03
+01PLANT.Cirsium arvense,07SEEDINVERT.Terellia ruficauda,4.31E+04
+01PLANT.Cirsium arvense,07SEEDINVERT.Urophora stylata,5.52E+02
+01PLANT.Cirsium vulgare,07SEEDINVERT.Curtonotus aulicus,5.52E+02
+01PLANT.Cirsium vulgare,07SEEDINVERT.Olibrus aeneus,5.52E+02
+01PLANT.Cirsium vulgare,07SEEDINVERT.Rhinocyllus conicus,5.52E+02
+01PLANT.Cirsium vulgare,07SEEDINVERT.Terellia longicauda,2.92E+02
+01PLANT.Cirsium vulgare,07SEEDINVERT.Terellia serratulae,1.11E+04
+01PLANT.Cirsium vulgare,07SEEDINVERT.Urophora stylata,7.27E+04
+01PLANT.Crataegus monogyna,07SEEDINVERT.Blastodacna hellerella,1.32E+03
+01PLANT.Trifolium dubium,07SEEDINVERT.Protapion nigritarse,8.22E+03
+01PLANT.Trifolium pratense/repens,07SEEDINVERT.Bruchidius varius,1.11E+03
+01PLANT.Trifolium pratense/repens,07SEEDINVERT.Bruchophagus gibbus,6.57E+04
+01PLANT.Trifolium pratense/repens,07SEEDINVERT.Protapion apricans,9.22E+04
+01PLANT.Trifolium pratense/repens,07SEEDINVERT.Protapion assimile,1.32E+05
+01PLANT.Trifolium pratense/repens,07SEEDINVERT.Protapion fulvipes,7.48E+05
+01PLANT.Trifolium pratense/repens,07SEEDINVERT.Protapion trifolii,4.66E+05
+01PLANT.Trifolium pratense/repens,07SEEDINVERT.Protapion varipes,5.52E+02
+01PLANT.Trifolium pratense/repens,07SEEDINVERT.Sitona lineatus,5.52E+02
+01PLANT.Trifolium pratense/repens,07SEEDINVERT.Sitona sulcifrons,5.52E+02
+01PLANT.Vicia sativa,07SEEDINVERT.Oxystoma pomonae,6.08E+03
+01PLANT.Acer campestre,08BIRD.Corvus frugilegus,7.23E-01
+01PLANT.Allium ursinum,08BIRD.Alauda arvensis,3.12E-02
+01PLANT.Allium ursinum,08BIRD.Alectoris rufa,2.04E-01
+01PLANT.Allium ursinum,08BIRD.Carduelis chloris,2.80E-02
+01PLANT.Allium ursinum,08BIRD.Columba palumbus,8.78E-02
+01PLANT.Allium ursinum,08BIRD.Corvus frugilegus,3.64E-01
+01PLANT.Allium ursinum,08BIRD.Emberiza citrinella,2.11E-02
+01PLANT.Allium ursinum,08BIRD.Passer domesticus,7.00E-03
+01PLANT.Anthriscus sylvestris,08BIRD.Alectoris rufa,5.96E-03
+01PLANT.Anthriscus sylvestris,08BIRD.Carduelis cannabina,9.44E-04
+01PLANT.Anthriscus sylvestris,08BIRD.Carduelis carduelis,2.19E-02
+01PLANT.Anthriscus sylvestris,08BIRD.Carduelis chloris,2.36E-03
+01PLANT.Anthriscus sylvestris,08BIRD.Columba palumbus,8.17E-03
+01PLANT.Anthriscus sylvestris,08BIRD.Corvus frugilegus,1.68E-02
+01PLANT.Anthriscus sylvestris,08BIRD.Emberiza citrinella,2.68E-03
+01PLANT.Anthriscus sylvestris,08BIRD.Passer domesticus,1.31E-04
+01PLANT.Arctium minus,08BIRD.Alectoris rufa,1.26E-04
+01PLANT.Arctium minus,08BIRD.Carduelis cannabina,1.85E-05
+01PLANT.Arctium minus,08BIRD.Carduelis carduelis,3.96E-03
+01PLANT.Arctium minus,08BIRD.Carduelis chloris,3.34E-04
+01PLANT.Arctium minus,08BIRD.Fringilla coelebs,1.33E-05
+01PLANT.Capsella bursa-pastoris,08BIRD.Carduelis cannabina,2.66E-01
+01PLANT.Capsella bursa-pastoris,08BIRD.Carduelis chloris,3.26E-01
+01PLANT.Capsella bursa-pastoris,08BIRD.Columba palumbus,7.61E-01
+01PLANT.Capsella bursa-pastoris,08BIRD.Fringilla coelebs,3.35E-01
+01PLANT.Capsella bursa-pastoris,08BIRD.Passer domesticus,1.49E+00
+01PLANT.Capsella bursa-pastoris,08BIRD.Streptopelia decaocto,4.90E-01
+01PLANT.Cardamine flexuosa,08BIRD.Alectoris rufa,6.11E-02
+01PLANT.Cardamine flexuosa,08BIRD.Carduelis cannabina,6.11E-04
+01PLANT.Cardamine flexuosa,08BIRD.Carduelis carduelis,6.26E-01
+01PLANT.Cardamine flexuosa,08BIRD.Carduelis chloris,7.49E-04
+01PLANT.Cardamine flexuosa,08BIRD.Columba palumbus,6.28E-04
+01PLANT.Cardamine flexuosa,08BIRD.Corvus frugilegus,7.34E-05
+01PLANT.Cardamine flexuosa,08BIRD.Emberiza citrinella,6.52E-02
+01PLANT.Cardamine flexuosa,08BIRD.Fringilla coelebs,4.02E-04
+01PLANT.Cardamine pratensis,08BIRD.Fringilla coelebs,1.02E+00
+01PLANT.Cerastium fontanum,08BIRD.Alectoris rufa,9.57E-01
+01PLANT.Cerastium fontanum,08BIRD.Carduelis cannabina,1.95E-02
+01PLANT.Cerastium fontanum,08BIRD.Carduelis carduelis,4.52E-01
+01PLANT.Cerastium fontanum,08BIRD.Carduelis chloris,3.94E-02
+01PLANT.Cerastium fontanum,08BIRD.Columba palumbus,1.40E-01
+01PLANT.Cerastium fontanum,08BIRD.Emberiza citrinella,1.16E+00
+01PLANT.Cerastium fontanum,08BIRD.Fringilla coelebs,9.48E-01
+01PLANT.Cerastium fontanum,08BIRD.Passer domesticus,2.81E-03
+01PLANT.Chaerophyllum temulum,08BIRD.Alectoris rufa,2.14E-01
+01PLANT.Chaerophyllum temulum,08BIRD.Carduelis cannabina,6.91E-03
+01PLANT.Chaerophyllum temulum,08BIRD.Carduelis carduelis,1.60E-01
+01PLANT.Chaerophyllum temulum,08BIRD.Carduelis chloris,4.07E-02
+01PLANT.Chaerophyllum temulum,08BIRD.Columba palumbus,1.33E-01
+01PLANT.Chaerophyllum temulum,08BIRD.Corvus frugilegus,4.28E-01
+01PLANT.Chaerophyllum temulum,08BIRD.Emberiza citrinella,3.73E-02
+01PLANT.Chaerophyllum temulum,08BIRD.Passer domesticus,6.83E-03
+01PLANT.Chenopodium sp.,08BIRD.Alauda arvensis,1.56E+00
+01PLANT.Chenopodium sp.,08BIRD.Alectoris rufa,6.11E+00
+01PLANT.Chenopodium sp.,08BIRD.Carduelis cannabina,1.20E+00
+01PLANT.Chenopodium sp.,08BIRD.Carduelis carduelis,7.58E+01
+01PLANT.Chenopodium sp.,08BIRD.Carduelis chloris,2.62E-01
+01PLANT.Chenopodium sp.,08BIRD.Columba palumbus,2.77E-01
+01PLANT.Chenopodium sp.,08BIRD.Corvus frugilegus,7.05E-01
+01PLANT.Chenopodium sp.,08BIRD.Corvus monedula,1.59E-01
+01PLANT.Chenopodium sp.,08BIRD.Emberiza citrinella,8.63E-02
+01PLANT.Chenopodium sp.,08BIRD.Fringilla coelebs,5.67E+00
+01PLANT.Chenopodium sp.,08BIRD.Passer domesticus,1.89E+01
+01PLANT.Chenopodium sp.,08BIRD.Streptopelia decaocto,1.00E-02
+01PLANT.Cirsium arvense,08BIRD.Alectoris rufa,1.24E-01
+01PLANT.Cirsium arvense,08BIRD.Carduelis cannabina,3.01E-04
+01PLANT.Cirsium arvense,08BIRD.Carduelis carduelis,9.33E-01
+01PLANT.Cirsium arvense,08BIRD.Carduelis chloris,5.16E-02
+01PLANT.Cirsium arvense,08BIRD.Corvus monedula,1.19E-01
+01PLANT.Cirsium arvense,08BIRD.Fringilla coelebs,1.85E-02
+01PLANT.Cirsium arvense,08BIRD.Passer domesticus,5.48E-01
+01PLANT.Cirsium vulgare,08BIRD.Alectoris rufa,3.85E-01
+01PLANT.Cirsium vulgare,08BIRD.Carduelis cannabina,1.35E-03
+01PLANT.Cirsium vulgare,08BIRD.Carduelis carduelis,2.90E-01
+01PLANT.Cirsium vulgare,08BIRD.Carduelis chloris,1.86E-01
+01PLANT.Cirsium vulgare,08BIRD.Corvus frugilegus,6.15E-01
+01PLANT.Cirsium vulgare,08BIRD.Corvus monedula,9.99E-02
+01PLANT.Cirsium vulgare,08BIRD.Fringilla coelebs,1.29E-02
+01PLANT.Cirsium vulgare,08BIRD.Passer domesticus,3.23E-03
+01PLANT.Clematis vitalba,08BIRD.Alectoris rufa,2.65E-01
+01PLANT.Clematis vitalba,08BIRD.Carduelis cannabina,1.26E-03
+01PLANT.Clematis vitalba,08BIRD.Carduelis carduelis,2.91E-02
+01PLANT.Clematis vitalba,08BIRD.Carduelis chloris,8.48E-03
+01PLANT.Clematis vitalba,08BIRD.Columba palumbus,2.77E-02
+01PLANT.Clematis vitalba,08BIRD.Corvus frugilegus,1.83E-01
+01PLANT.Clematis vitalba,08BIRD.Emberiza citrinella,8.63E-02
+01PLANT.Clematis vitalba,08BIRD.Passer domesticus,1.81E-03
+01PLANT.Crataegus monogyna,08BIRD.Alectoris rufa,1.28E+00
+01PLANT.Crataegus monogyna,08BIRD.Carduelis cannabina,8.47E-02
+01PLANT.Crataegus monogyna,08BIRD.Carduelis carduelis,1.09E+01
+01PLANT.Crataegus monogyna,08BIRD.Carduelis chloris,4.26E-01
+01PLANT.Crataegus monogyna,08BIRD.Corvus frugilegus,4.31E-01
+01PLANT.Crataegus monogyna,08BIRD.Fringilla coelebs,1.16E-01
+01PLANT.Epilobium sp.,08BIRD.Alectoris rufa,2.65E-01
+01PLANT.Epilobium sp.,08BIRD.Carduelis cannabina,2.70E-02
+01PLANT.Epilobium sp.,08BIRD.Carduelis carduelis,6.26E-01
+01PLANT.Epilobium sp.,08BIRD.Carduelis chloris,8.03E-02
+01PLANT.Epilobium sp.,08BIRD.Columba palumbus,2.74E-01
+01PLANT.Epilobium sp.,08BIRD.Corvus frugilegus,6.48E-01
+01PLANT.Epilobium sp.,08BIRD.Emberiza citrinella,8.63E-02
+01PLANT.Epilobium sp.,08BIRD.Fringilla coelebs,1.04E-01
+01PLANT.Epilobium sp.,08BIRD.Passer domesticus,7.00E-03
+01PLANT.Euphorbia helioscopia,08BIRD.Corvus monedula,8.06E-02
+01PLANT.Euphorbia helioscopia,08BIRD.Fringilla coelebs,5.21E-02
+01PLANT.Fallopia convolvulus,08BIRD.Alauda arvensis,8.45E-03
+01PLANT.Fallopia convolvulus,08BIRD.Alectoris rufa,7.98E-03
+01PLANT.Fallopia convolvulus,08BIRD.Carduelis cannabina,1.11E-04
+01PLANT.Fallopia convolvulus,08BIRD.Carduelis carduelis,3.96E-04
+01PLANT.Fallopia convolvulus,08BIRD.Carduelis chloris,2.35E-03
+01PLANT.Fallopia convolvulus,08BIRD.Columba palumbus,4.46E-04
+01PLANT.Fallopia convolvulus,08BIRD.Corvus frugilegus,7.95E-03
+01PLANT.Fallopia convolvulus,08BIRD.Corvus monedula,1.01E-02
+01PLANT.Fallopia convolvulus,08BIRD.Emberiza citrinella,5.48E-04
+01PLANT.Fallopia convolvulus,08BIRD.Fringilla coelebs,1.67E-03
+01PLANT.Fallopia convolvulus,08BIRD.Passer domesticus,4.35E-04
+01PLANT.Galium aparine,08BIRD.Carduelis chloris,8.03E-02
+01PLANT.Galium aparine,08BIRD.Corvus monedula,1.86E-01
+01PLANT.Galium aparine,08BIRD.Fringilla coelebs,1.14E-01
+01PLANT.Galium aparine,08BIRD.Passer domesticus,7.00E-03
+01PLANT.Geranium dissectum,08BIRD.Carduelis chloris,3.64E-02
+01PLANT.Geranium dissectum,08BIRD.Fringilla coelebs,3.60E-02
+01PLANT.Geranium robertianum,08BIRD.Carduelis chloris,1.58E-02
+01PLANT.Geranium robertianum,08BIRD.Fringilla coelebs,1.57E-02
+01PLANT.Geum urbanum,08BIRD.Alectoris rufa,3.60E-03
+01PLANT.Geum urbanum,08BIRD.Carduelis chloris,5.22E-04
+01PLANT.Geum urbanum,08BIRD.Columba palumbus,9.60E-04
+01PLANT.Geum urbanum,08BIRD.Corvus frugilegus,1.16E-03
+01PLANT.Geum urbanum,08BIRD.Emberiza citrinella,2.31E-04
+01PLANT.Geum urbanum,08BIRD.Fringilla coelebs,3.14E-04
+01PLANT.Geum urbanum,08BIRD.Passer domesticus,7.00E-03
+01PLANT.Glechoma hederacea,08BIRD.Alectoris rufa,9.21E-03
+01PLANT.Glechoma hederacea,08BIRD.Carduelis cannabina,7.31E-04
+01PLANT.Glechoma hederacea,08BIRD.Carduelis carduelis,1.69E-02
+01PLANT.Glechoma hederacea,08BIRD.Carduelis chloris,1.41E-03
+01PLANT.Glechoma hederacea,08BIRD.Columba palumbus,5.46E-03
+01PLANT.Glechoma hederacea,08BIRD.Corvus frugilegus,8.30E-03
+01PLANT.Glechoma hederacea,08BIRD.Emberiza citrinella,1.91E-03
+01PLANT.Glechoma hederacea,08BIRD.Fringilla coelebs,2.92E-03
+01PLANT.Heracleum sphondylium,08BIRD.Alectoris rufa,4.45E-02
+01PLANT.Heracleum sphondylium,08BIRD.Carduelis cannabina,1.92E-02
+01PLANT.Heracleum sphondylium,08BIRD.Carduelis carduelis,4.44E-01
+01PLANT.Heracleum sphondylium,08BIRD.Carduelis chloris,3.72E-02
+01PLANT.Heracleum sphondylium,08BIRD.Columba palumbus,1.33E-01
+01PLANT.Heracleum sphondylium,08BIRD.Corvus frugilegus,2.03E-01
+01PLANT.Heracleum sphondylium,08BIRD.Emberiza citrinella,4.63E-02
+01PLANT.Heracleum sphondylium,08BIRD.Passer domesticus,3.95E-05
+01PLANT.Hypochaeris/ Crepis sp.,08BIRD.Alectoris rufa,4.80E-03
+01PLANT.Hypochaeris/ Crepis sp.,08BIRD.Carduelis cannabina,3.02E-05
+01PLANT.Hypochaeris/ Crepis sp.,08BIRD.Carduelis carduelis,6.48E-03
+01PLANT.Hypochaeris/ Crepis sp.,08BIRD.Carduelis chloris,2.52E-03
+01PLANT.Hypochaeris/ Crepis sp.,08BIRD.Fringilla coelebs,1.67E-04
+01PLANT.Hypochaeris/ Crepis sp.,08BIRD.Passer domesticus,3.95E-05
+01PLANT.Lamium purpureum,08BIRD.Alectoris rufa,4.86E-01
+01PLANT.Lamium purpureum,08BIRD.Carduelis cannabina,2.43E-02
+01PLANT.Lamium purpureum,08BIRD.Carduelis carduelis,6.55E-01
+01PLANT.Lamium purpureum,08BIRD.Carduelis chloris,4.69E-02
+01PLANT.Lamium purpureum,08BIRD.Columba palumbus,1.84E-01
+01PLANT.Lamium purpureum,08BIRD.Corvus frugilegus,2.75E-01
+01PLANT.Lamium purpureum,08BIRD.Emberiza citrinella,6.33E-02
+01PLANT.Lamium purpureum,08BIRD.Fringilla coelebs,1.07E-01
+01PLANT.Lamium purpureum,08BIRD.Passer domesticus,1.50E-01
+01PLANT.Lamium purpureum,08BIRD.Streptopelia decaocto,2.50E-03
+01PLANT.Lapsana communis,08BIRD.Alectoris rufa,6.21E-04
+01PLANT.Lapsana communis,08BIRD.Carduelis cannabina,4.08E-07
+01PLANT.Lapsana communis,08BIRD.Carduelis carduelis,8.75E-05
+01PLANT.Lapsana communis,08BIRD.Carduelis chloris,2.72E-04
+01PLANT.Lapsana communis,08BIRD.Fringilla coelebs,6.57E-04
+01PLANT.Lapsana communis,08BIRD.Passer domesticus,5.31E-06
+01PLANT.Leontodon autumnalis,08BIRD.Alectoris rufa,6.35E-07
+01PLANT.Leontodon autumnalis,08BIRD.Carduelis cannabina,9.34E-08
+01PLANT.Leontodon autumnalis,08BIRD.Carduelis carduelis,2.00E-05
+01PLANT.Leontodon autumnalis,08BIRD.Carduelis chloris,1.69E-06
+01PLANT.Leontodon autumnalis,08BIRD.Fringilla coelebs,6.72E-08
+01PLANT.Matricaria discoidea,08BIRD.Alectoris rufa,2.72E-02
+01PLANT.Matricaria discoidea,08BIRD.Carduelis carduelis,3.06E-01
+01PLANT.Matricaria discoidea,08BIRD.Fringilla coelebs,5.04E-04
+01PLANT.Matricaria discoidea,08BIRD.Passer domesticus,7.48E-02
+01PLANT.Matricaria recutita,08BIRD.Alectoris rufa,2.67E+00
+01PLANT.Matricaria recutita,08BIRD.Carduelis cannabina,6.70E-02
+01PLANT.Matricaria recutita,08BIRD.Carduelis carduelis,1.79E+01
+01PLANT.Matricaria recutita,08BIRD.Carduelis chloris,2.05E+00
+01PLANT.Matricaria recutita,08BIRD.Fringilla coelebs,1.15E-01
+01PLANT.Matricaria recutita,08BIRD.Passer domesticus,1.18E+00
+01PLANT.Mercurialis perennis,08BIRD.Alectoris rufa,6.11E-02
+01PLANT.Mercurialis perennis,08BIRD.Carduelis cannabina,2.70E-02
+01PLANT.Mercurialis perennis,08BIRD.Carduelis carduelis,6.26E-01
+01PLANT.Mercurialis perennis,08BIRD.Carduelis chloris,5.22E-02
+01PLANT.Mercurialis perennis,08BIRD.Columba palumbus,1.87E-01
+01PLANT.Mercurialis perennis,08BIRD.Corvus frugilegus,2.84E-01
+01PLANT.Mercurialis perennis,08BIRD.Emberiza citrinella,6.52E-02
+01PLANT.Myosotis arvensis,08BIRD.Carduelis cannabina,2.70E-02
+01PLANT.Myosotis arvensis,08BIRD.Carduelis carduelis,6.26E-01
+01PLANT.Myosotis arvensis,08BIRD.Emberiza citrinella,8.63E-02
+01PLANT.Myosotis arvensis,08BIRD.Fringilla coelebs,1.04E-01
+01PLANT.Papaver sp.,08BIRD.Alauda arvensis,3.12E-02
+01PLANT.Papaver sp.,08BIRD.Carduelis cannabina,2.70E-02
+01PLANT.Papaver sp.,08BIRD.Carduelis carduelis,6.26E-01
+01PLANT.Papaver sp.,08BIRD.Corvus monedula,1.26E-01
+01PLANT.Persicaria sp.,08BIRD.Alauda arvensis,2.21E+00
+01PLANT.Persicaria sp.,08BIRD.Alectoris rufa,2.96E+00
+01PLANT.Persicaria sp.,08BIRD.Carduelis cannabina,8.23E-01
+01PLANT.Persicaria sp.,08BIRD.Carduelis carduelis,3.20E+00
+01PLANT.Persicaria sp.,08BIRD.Carduelis chloris,1.81E+00
+01PLANT.Persicaria sp.,08BIRD.Columba palumbus,2.47E-01
+01PLANT.Persicaria sp.,08BIRD.Corvus frugilegus,3.85E+00
+01PLANT.Persicaria sp.,08BIRD.Corvus monedula,4.53E+00
+01PLANT.Persicaria sp.,08BIRD.Emberiza citrinella,5.86E-01
+01PLANT.Persicaria sp.,08BIRD.Fringilla coelebs,9.34E-01
+01PLANT.Persicaria sp.,08BIRD.Passer domesticus,3.30E+00
+01PLANT.Persicaria sp.,08BIRD.Streptopelia decaocto,1.25E-03
+01PLANT.Picris echioides,08BIRD.Alectoris rufa,6.61E-03
+01PLANT.Picris echioides,08BIRD.Carduelis cannabina,4.29E-06
+01PLANT.Picris echioides,08BIRD.Carduelis carduelis,9.19E-04
+01PLANT.Picris echioides,08BIRD.Carduelis chloris,2.91E-03
+01PLANT.Picris echioides,08BIRD.Corvus frugilegus,7.03E-03
+01PLANT.Picris echioides,08BIRD.Fringilla coelebs,2.11E-04
+01PLANT.Picris echioides,08BIRD.Passer domesticus,5.65E-05
+01PLANT.Poaceae,08BIRD.Alauda arvensis,3.12E-02
+01PLANT.Poaceae,08BIRD.Alectoris rufa,1.11E+01
+01PLANT.Poaceae,08BIRD.Carduelis cannabina,2.70E-02
+01PLANT.Poaceae,08BIRD.Carduelis carduelis,7.43E-01
+01PLANT.Poaceae,08BIRD.Carduelis chloris,8.03E-02
+01PLANT.Poaceae,08BIRD.Columba palumbus,2.77E-01
+01PLANT.Poaceae,08BIRD.Corvus frugilegus,8.00E-01
+01PLANT.Poaceae,08BIRD.Corvus monedula,2.19E-01
+01PLANT.Poaceae,08BIRD.Emberiza citrinella,5.47E+00
+01PLANT.Poaceae,08BIRD.Fringilla coelebs,5.80E-01
+01PLANT.Poaceae,08BIRD.Passer domesticus,1.62E+01
+01PLANT.Poaceae,08BIRD.Streptopelia decaocto,1.00E-02
+01PLANT.Polygonum sp.,08BIRD.Alauda arvensis,4.46E-02
+01PLANT.Polygonum sp.,08BIRD.Alectoris rufa,5.43E-02
+01PLANT.Polygonum sp.,08BIRD.Carduelis cannabina,3.84E-04
+01PLANT.Polygonum sp.,08BIRD.Carduelis carduelis,1.94E-02
+01PLANT.Polygonum sp.,08BIRD.Carduelis chloris,1.21E-02
+01PLANT.Polygonum sp.,08BIRD.Columba palumbus,1.21E-03
+01PLANT.Polygonum sp.,08BIRD.Corvus frugilegus,6.87E-01
+01PLANT.Polygonum sp.,08BIRD.Corvus monedula,3.08E+00
+01PLANT.Polygonum sp.,08BIRD.Emberiza citrinella,2.78E-03
+01PLANT.Polygonum sp.,08BIRD.Fringilla coelebs,7.12E-02
+01PLANT.Polygonum sp.,08BIRD.Passer domesticus,2.22E-01
+01PLANT.Polygonum sp.,08BIRD.Streptopelia decaocto,6.47E-05
+01PLANT.Potentilla reptans,08BIRD.Alectoris rufa,6.22E-03
+01PLANT.Potentilla reptans,08BIRD.Carduelis chloris,9.02E-04
+01PLANT.Potentilla reptans,08BIRD.Fringilla coelebs,3.54E-04
+01PLANT.Prunella vulgaris,08BIRD.Alectoris rufa,2.53E-02
+01PLANT.Prunella vulgaris,08BIRD.Carduelis cannabina,2.01E-03
+01PLANT.Prunella vulgaris,08BIRD.Carduelis carduelis,4.66E-02
+01PLANT.Prunella vulgaris,08BIRD.Carduelis chloris,3.89E-03
+01PLANT.Prunella vulgaris,08BIRD.Fringilla coelebs,8.04E-03
+01PLANT.Prunus spinosa,08BIRD.Alectoris rufa,6.44E-01
+01PLANT.Prunus spinosa,08BIRD.Carduelis cannabina,5.65E-02
+01PLANT.Prunus spinosa,08BIRD.Carduelis carduelis,7.27E+00
+01PLANT.Prunus spinosa,08BIRD.Carduelis chloris,2.54E-01
+01PLANT.Prunus spinosa,08BIRD.Corvus frugilegus,1.97E-01
+01PLANT.Prunus spinosa,08BIRD.Fringilla coelebs,1.23E-01
+01PLANT.Quercus robur,08BIRD.Alectoris rufa,2.65E-01
+01PLANT.Quercus robur,08BIRD.Carduelis cannabina,2.70E-02
+01PLANT.Quercus robur,08BIRD.Carduelis carduelis,6.26E-01
+01PLANT.Quercus robur,08BIRD.Carduelis chloris,8.03E-02
+01PLANT.Quercus robur,08BIRD.Columba palumbus,1.99E+01
+01PLANT.Quercus robur,08BIRD.Corvus frugilegus,3.05E+01
+01PLANT.Quercus robur,08BIRD.Corvus monedula,2.71E+00
+01PLANT.Quercus robur,08BIRD.Emberiza citrinella,8.63E-02
+01PLANT.Quercus robur,08BIRD.Fringilla coelebs,1.12E+00
+01PLANT.Quercus robur,08BIRD.Passer domesticus,7.00E-03
+01PLANT.Ranunculus acris,08BIRD.Alauda arvensis,6.54E-03
+01PLANT.Ranunculus acris,08BIRD.Carduelis cannabina,2.06E-03
+01PLANT.Ranunculus acris,08BIRD.Carduelis carduelis,4.78E-02
+01PLANT.Ranunculus acris,08BIRD.Carduelis chloris,8.59E-03
+01PLANT.Ranunculus acris,08BIRD.Columba palumbus,2.87E-02
+01PLANT.Ranunculus acris,08BIRD.Corvus monedula,2.05E-02
+01PLANT.Ranunculus acris,08BIRD.Fringilla coelebs,1.50E-02
+01PLANT.Ranunculus repens,08BIRD.Alauda arvensis,2.47E-02
+01PLANT.Ranunculus repens,08BIRD.Carduelis cannabina,2.37E-02
+01PLANT.Ranunculus repens,08BIRD.Carduelis carduelis,5.49E-01
+01PLANT.Ranunculus repens,08BIRD.Carduelis chloris,6.32E-02
+01PLANT.Ranunculus repens,08BIRD.Columba palumbus,2.18E-01
+01PLANT.Ranunculus repens,08BIRD.Corvus frugilegus,5.39E-01
+01PLANT.Ranunculus repens,08BIRD.Corvus monedula,1.06E-01
+01PLANT.Ranunculus repens,08BIRD.Fringilla coelebs,8.88E-02
+01PLANT.Ranunculus repens,08BIRD.Passer domesticus,5.19E-03
+01PLANT.Rosa sp.,08BIRD.Alectoris rufa,1.88E-01
+01PLANT.Rosa sp.,08BIRD.Carduelis cannabina,6.12E-04
+01PLANT.Rosa sp.,08BIRD.Carduelis carduelis,7.88E-02
+01PLANT.Rosa sp.,08BIRD.Carduelis chloris,2.90E-02
+01PLANT.Rosa sp.,08BIRD.Fringilla coelebs,1.10E-02
+01PLANT.Rubus fruticosus,08BIRD.Alectoris rufa,3.56E-01
+01PLANT.Rubus fruticosus,08BIRD.Carduelis cannabina,8.15E-03
+01PLANT.Rubus fruticosus,08BIRD.Carduelis carduelis,1.05E+00
+01PLANT.Rubus fruticosus,08BIRD.Carduelis chloris,7.48E-02
+01PLANT.Rubus fruticosus,08BIRD.Columba palumbus,2.73E-01
+01PLANT.Rubus fruticosus,08BIRD.Corvus frugilegus,1.14E-01
+01PLANT.Rubus fruticosus,08BIRD.Corvus monedula,1.86E-01
+01PLANT.Rubus fruticosus,08BIRD.Emberiza citrinella,8.61E-02
+01PLANT.Rubus fruticosus,08BIRD.Fringilla coelebs,3.03E-02
+01PLANT.Rumex sp.,08BIRD.Alauda arvensis,6.08E-01
+01PLANT.Rumex sp.,08BIRD.Alectoris rufa,8.61E-01
+01PLANT.Rumex sp.,08BIRD.Carduelis cannabina,7.62E-02
+01PLANT.Rumex sp.,08BIRD.Carduelis carduelis,7.65E-01
+01PLANT.Rumex sp.,08BIRD.Carduelis chloris,2.71E-01
+01PLANT.Rumex sp.,08BIRD.Columba palumbus,2.81E-02
+01PLANT.Rumex sp.,08BIRD.Corvus frugilegus,1.52E+01
+01PLANT.Rumex sp.,08BIRD.Corvus monedula,1.32E+01
+01PLANT.Rumex sp.,08BIRD.Emberiza citrinella,7.75E-02
+01PLANT.Rumex sp.,08BIRD.Fringilla coelebs,4.45E-01
+01PLANT.Rumex sp.,08BIRD.Passer domesticus,9.94E+00
+01PLANT.Rumex sp.,08BIRD.Streptopelia decaocto,8.68E-03
+01PLANT.Sambucus nigra,08BIRD.Columba palumbus,2.74E-01
+01PLANT.Sambucus nigra,08BIRD.Corvus frugilegus,8.42E+00
+01PLANT.Sambucus nigra,08BIRD.Corvus monedula,2.32E+00
+01PLANT.Sambucus nigra,08BIRD.Fringilla coelebs,1.06E-01
+01PLANT.Sambucus nigra,08BIRD.Passer domesticus,7.00E-03
+01PLANT.Senacio vulgaris,08BIRD.Alectoris rufa,1.02E-01
+01PLANT.Senacio vulgaris,08BIRD.Carduelis cannabina,1.52E-04
+01PLANT.Senacio vulgaris,08BIRD.Carduelis carduelis,3.26E-02
+01PLANT.Senacio vulgaris,08BIRD.Carduelis chloris,4.63E-02
+01PLANT.Senacio vulgaris,08BIRD.Fringilla coelebs,3.32E-03
+01PLANT.Senacio vulgaris,08BIRD.Passer domesticus,8.71E-04
+01PLANT.Silene dioica,08BIRD.Alectoris rufa,5.34E-02
+01PLANT.Silene dioica,08BIRD.Emberiza citrinella,5.40E-02
+01PLANT.Silene dioica,08BIRD.Fringilla coelebs,1.91E-01
+01PLANT.Silene dioica,08BIRD.Passer domesticus,2.81E-04
+01PLANT.Sinapis arvensis,08BIRD.Carduelis cannabina,2.36E+00
+01PLANT.Sinapis arvensis,08BIRD.Carduelis chloris,4.64E+00
+01PLANT.Sinapis arvensis,08BIRD.Columba palumbus,3.70E+00
+01PLANT.Sinapis arvensis,08BIRD.Corvus frugilegus,6.48E-01
+01PLANT.Sinapis arvensis,08BIRD.Corvus monedula,1.26E-01
+01PLANT.Sinapis arvensis,08BIRD.Fringilla coelebs,3.29E+00
+01PLANT.Sinapis arvensis,08BIRD.Passer domesticus,2.95E-02
+01PLANT.Sonchus arvensis,08BIRD.Alectoris rufa,1.96E-03
+01PLANT.Sonchus arvensis,08BIRD.Carduelis cannabina,9.40E-05
+01PLANT.Sonchus arvensis,08BIRD.Carduelis carduelis,3.38E-02
+01PLANT.Sonchus arvensis,08BIRD.Carduelis chloris,2.27E-03
+01PLANT.Sonchus arvensis,08BIRD.Columba palumbus,1.81E-01
+01PLANT.Sonchus arvensis,08BIRD.Corvus frugilegus,7.68E-02
+01PLANT.Sonchus arvensis,08BIRD.Emberiza citrinella,4.24E-04
+01PLANT.Sonchus arvensis,08BIRD.Fringilla coelebs,1.10E-04
+01PLANT.Sonchus arvensis,08BIRD.Passer domesticus,9.76E-03
+01PLANT.Sonchus arvensis,08BIRD.Streptopelia decaocto,7.50E-03
+01PLANT.Sonchus asper/oleraceus,08BIRD.Alectoris rufa,1.68E+00
+01PLANT.Sonchus asper/oleraceus,08BIRD.Carduelis cannabina,8.10E-02
+01PLANT.Sonchus asper/oleraceus,08BIRD.Carduelis carduelis,2.03E+01
+01PLANT.Sonchus asper/oleraceus,08BIRD.Carduelis chloris,1.85E+00
+01PLANT.Sonchus asper/oleraceus,08BIRD.Emberiza citrinella,8.56E-02
+01PLANT.Sonchus asper/oleraceus,08BIRD.Fringilla coelebs,1.39E-01
+01PLANT.Sonchus asper/oleraceus,08BIRD.Passer domesticus,8.77E-01
+01PLANT.Spergula arvensis,08BIRD.Alectoris rufa,1.41E-02
+01PLANT.Spergula arvensis,08BIRD.Corvus monedula,4.56E-02
+01PLANT.Spergula arvensis,08BIRD.Emberiza citrinella,2.06E-02
+01PLANT.Spergula arvensis,08BIRD.Fringilla coelebs,1.61E-02
+01PLANT.Stachys sylvatica,08BIRD.Alauda arvensis,1.56E+00
+01PLANT.Stachys sylvatica,08BIRD.Alectoris rufa,1.15E+00
+01PLANT.Stachys sylvatica,08BIRD.Fringilla coelebs,1.09E-01
+01PLANT.Stellaria graminea,08BIRD.Alectoris rufa,5.61E-01
+01PLANT.Stellaria graminea,08BIRD.Corvus frugilegus,6.48E-01
+01PLANT.Stellaria graminea,08BIRD.Emberiza citrinella,9.59E-02
+01PLANT.Stellaria graminea,08BIRD.Fringilla coelebs,2.02E-01
+01PLANT.Stellaria graminea,08BIRD.Passer domesticus,8.50E-03
+01PLANT.Stellaria media,08BIRD.Alectoris rufa,3.37E+00
+01PLANT.Stellaria media,08BIRD.Carduelis cannabina,7.48E-03
+01PLANT.Stellaria media,08BIRD.Carduelis carduelis,1.73E-01
+01PLANT.Stellaria media,08BIRD.Carduelis chloris,4.10E-02
+01PLANT.Stellaria media,08BIRD.Columba palumbus,1.35E-01
+01PLANT.Stellaria media,08BIRD.Emberiza citrinella,8.71E-01
+01PLANT.Stellaria media,08BIRD.Fringilla coelebs,1.39E+00
+01PLANT.Stellaria media,08BIRD.Passer domesticus,4.75E-02
+01PLANT.Taraxacum officinale,08BIRD.Alectoris rufa,2.18E-03
+01PLANT.Taraxacum officinale,08BIRD.Carduelis cannabina,2.58E-05
+01PLANT.Taraxacum officinale,08BIRD.Carduelis carduelis,5.53E-03
+01PLANT.Taraxacum officinale,08BIRD.Carduelis chloris,1.33E-03
+01PLANT.Taraxacum officinale,08BIRD.Columba palumbus,9.30E-02
+01PLANT.Taraxacum officinale,08BIRD.Corvus frugilegus,6.85E-03
+01PLANT.Taraxacum officinale,08BIRD.Emberiza citrinella,2.70E-04
+01PLANT.Taraxacum officinale,08BIRD.Fringilla coelebs,8.19E-05
+01PLANT.Taraxacum officinale,08BIRD.Passer domesticus,1.72E-05
+01PLANT.Trifolium dubium,08BIRD.Alectoris rufa,3.00E-02
+01PLANT.Trifolium dubium,08BIRD.Carduelis chloris,4.50E-04
+01PLANT.Trifolium dubium,08BIRD.Columba palumbus,2.39E-02
+01PLANT.Trifolium dubium,08BIRD.Corvus monedula,9.66E-04
+01PLANT.Trifolium dubium,08BIRD.Fringilla coelebs,2.35E-03
+01PLANT.Trifolium pratense/repens,08BIRD.Alectoris rufa,1.71E+00
+01PLANT.Trifolium pratense/repens,08BIRD.Carduelis cannabina,2.70E-02
+01PLANT.Trifolium pratense/repens,08BIRD.Carduelis carduelis,6.51E-01
+01PLANT.Trifolium pratense/repens,08BIRD.Carduelis chloris,5.79E-02
+01PLANT.Trifolium pratense/repens,08BIRD.Columba palumbus,4.52E+00
+01PLANT.Trifolium pratense/repens,08BIRD.Corvus monedula,1.15E-01
+01PLANT.Trifolium pratense/repens,08BIRD.Emberiza citrinella,6.38E-02
+01PLANT.Trifolium pratense/repens,08BIRD.Fringilla coelebs,1.02E-01
+01PLANT.Trifolium pratense/repens,08BIRD.Streptopelia decaocto,1.47E+00
+01PLANT.Triticum aestivum,08BIRD.Alauda arvensis,3.12E-02
+01PLANT.Triticum aestivum,08BIRD.Alectoris rufa,1.63E+01
+01PLANT.Triticum aestivum,08BIRD.Carduelis cannabina,2.70E-02
+01PLANT.Triticum aestivum,08BIRD.Carduelis carduelis,6.26E-01
+01PLANT.Triticum aestivum,08BIRD.Carduelis chloris,2.88E+00
+01PLANT.Triticum aestivum,08BIRD.Columba palumbus,2.16E+01
+01PLANT.Triticum aestivum,08BIRD.Corvus frugilegus,9.25E+01
+01PLANT.Triticum aestivum,08BIRD.Corvus monedula,1.63E+01
+01PLANT.Triticum aestivum,08BIRD.Emberiza citrinella,2.13E+00
+01PLANT.Triticum aestivum,08BIRD.Fringilla coelebs,5.42E+00
+01PLANT.Triticum aestivum,08BIRD.Passer domesticus,6.79E-01
+01PLANT.Urtica dioica,08BIRD.Alauda arvensis,3.12E-02
+01PLANT.Urtica dioica,08BIRD.Carduelis cannabina,2.70E-02
+01PLANT.Urtica dioica,08BIRD.Carduelis carduelis,7.43E-01
+01PLANT.Urtica dioica,08BIRD.Columba palumbus,2.77E-01
+01PLANT.Urtica dioica,08BIRD.Emberiza citrinella,5.73E+00
+01PLANT.Urtica dioica,08BIRD.Passer domesticus,2.70E-01
+01PLANT.Veronica arvensis,08BIRD.Alauda arvensis,3.12E-02
+01PLANT.Veronica arvensis,08BIRD.Carduelis cannabina,4.09E-03
+01PLANT.Veronica arvensis,08BIRD.Columba palumbus,1.16E-01
+01PLANT.Veronica hederifolia,08BIRD.Alectoris rufa,6.11E-02
+01PLANT.Veronica hederifolia,08BIRD.Carduelis cannabina,1.32E-04
+01PLANT.Veronica hederifolia,08BIRD.Carduelis carduelis,6.26E-01
+01PLANT.Veronica hederifolia,08BIRD.Carduelis chloris,5.22E-02
+01PLANT.Veronica hederifolia,08BIRD.Columba palumbus,9.13E-04
+01PLANT.Veronica hederifolia,08BIRD.Corvus frugilegus,2.84E-01
+01PLANT.Veronica hederifolia,08BIRD.Emberiza citrinella,6.52E-02
+01PLANT.Veronica persica,08BIRD.Carduelis cannabina,2.28E-02
+01PLANT.Veronica persica,08BIRD.Columba palumbus,1.57E-01
+01PLANT.Vicia hirsute,08BIRD.Alectoris rufa,1.23E+00
+01PLANT.Vicia hirsute,08BIRD.Carduelis chloris,2.17E-02
+01PLANT.Vicia hirsute,08BIRD.Columba palumbus,1.12E+00
+01PLANT.Vicia hirsute,08BIRD.Corvus frugilegus,6.45E-01
+01PLANT.Vicia hirsute,08BIRD.Corvus monedula,4.02E-02
+01PLANT.Vicia hirsute,08BIRD.Emberiza citrinella,2.24E-02
+01PLANT.Vicia hirsute,08BIRD.Passer domesticus,6.95E-03
+01PLANT.Vicia sepium,08BIRD.Alectoris rufa,8.71E-03
+01PLANT.Vicia sepium,08BIRD.Carduelis chloris,1.31E-04
+01PLANT.Vicia sepium,08BIRD.Columba palumbus,6.93E-03
+01PLANT.Vicia sepium,08BIRD.Corvus frugilegus,2.63E-03
+01PLANT.Vicia sepium,08BIRD.Corvus monedula,2.80E-04
+01PLANT.Vicia sepium,08BIRD.Emberiza citrinella,1.13E-04
+01PLANT.Vicia sepium,08BIRD.Passer domesticus,5.06E-05
+01PLANT.Viola arvensis,08BIRD.Alauda arvensis,3.12E-02
+01PLANT.Viola arvensis,08BIRD.Fringilla coelebs,1.04E-01
+01PLANT.Acer campestre,09MAMMAL.Apodemus flavicollis,3.18E+00
+01PLANT.Acer campestre,09MAMMAL.Apodemus sylvaticus,1.31E+01
+01PLANT.Acer campestre,09MAMMAL.Micromys minutus,8.25E-01
+01PLANT.Acer campestre,09MAMMAL.Myodes glareolus,1.31E+01
+"01PLANT.Acer pseudoplatanus,",09MAMMAL.Apodemus flavicollis,3.60E-01
+"01PLANT.Acer pseudoplatanus,",09MAMMAL.Apodemus sylvaticus,3.76E+00
+"01PLANT.Acer pseudoplatanus,",09MAMMAL.Micromys minutus,2.16E-02
+"01PLANT.Acer pseudoplatanus,",09MAMMAL.Myodes glareolus,6.79E+00
+01PLANT.Chenopodium sp.,09MAMMAL.Apodemus sylvaticus,6.19E+01
+01PLANT.Chenopodium sp.,09MAMMAL.Micromys minutus,6.77E-03
+01PLANT.Chenopodium sp.,09MAMMAL.Myodes glareolus,1.64E-02
+01PLANT.Corylus avellana,09MAMMAL.Apodemus flavicollis,5.56E-01
+01PLANT.Corylus avellana,09MAMMAL.Apodemus sylvaticus,3.73E+00
+01PLANT.Corylus avellana,09MAMMAL.Myodes glareolus,6.07E+00
+01PLANT.Crataegus monogyna,09MAMMAL.Apodemus flavicollis,1.38E+00
+01PLANT.Crataegus monogyna,09MAMMAL.Apodemus sylvaticus,7.36E+00
+01PLANT.Crataegus monogyna,09MAMMAL.Micromys minutus,4.33E-01
+01PLANT.Crataegus monogyna,09MAMMAL.Myodes glareolus,2.95E+00
+01PLANT.Fallopia convolvulus,09MAMMAL.Apodemus sylvaticus,1.85E+00
+01PLANT.Fraxinus excelsior,09MAMMAL.Apodemus flavicollis,4.69E-01
+01PLANT.Fraxinus excelsior,09MAMMAL.Apodemus sylvaticus,9.09E+00
+01PLANT.Fraxinus excelsior,09MAMMAL.Micromys minutus,2.21E-02
+01PLANT.Fraxinus excelsior,09MAMMAL.Myodes glareolus,2.10E+01
+01PLANT.Geranium dissectum,09MAMMAL.Apodemus sylvaticus,1.07E-02
+01PLANT.Geranium robertianum,09MAMMAL.Apodemus sylvaticus,4.65E-02
+01PLANT.Geranium robertianum,09MAMMAL.Myodes glareolus,3.39E-02
+01PLANT.Glechoma hederacea,09MAMMAL.Apodemus sylvaticus,2.48E-02
+01PLANT.Glechoma hederacea,09MAMMAL.Myodes glareolus,1.81E-02
+01PLANT.Hyacinthoides non-scripta,09MAMMAL.Apodemus sylvaticus,2.15E-01
+01PLANT.Hyacinthoides non-scripta,09MAMMAL.Myodes glareolus,5.31E-01
+01PLANT.Lamium purpureum,09MAMMAL.Apodemus sylvaticus,3.38E-02
+01PLANT.Lamium purpureum,09MAMMAL.Myodes glareolus,7.31E-03
+01PLANT.Mercurialis perennis,09MAMMAL.Apodemus sylvaticus,2.31E-02
+01PLANT.Mercurialis perennis,09MAMMAL.Myodes glareolus,1.69E-02
+01PLANT.Persicaria sp.,09MAMMAL.Apodemus sylvaticus,7.81E+01
+01PLANT.Poaceae,09MAMMAL.Apodemus flavicollis,1.82E+01
+01PLANT.Poaceae,09MAMMAL.Apodemus sylvaticus,7.35E+02
+01PLANT.Poaceae,09MAMMAL.Micromys minutus,2.06E+01
+01PLANT.Poaceae,09MAMMAL.Myodes glareolus,3.60E+02
+01PLANT.Polygonum sp.,09MAMMAL.Apodemus sylvaticus,1.34E+01
+01PLANT.Prunus spinosa,09MAMMAL.Apodemus flavicollis,4.20E-01
+01PLANT.Prunus spinosa,09MAMMAL.Apodemus sylvaticus,3.53E+00
+01PLANT.Prunus spinosa,09MAMMAL.Myodes glareolus,5.60E+00
+01PLANT.Quercus robur,09MAMMAL.Apodemus flavicollis,3.63E+00
+01PLANT.Quercus robur,09MAMMAL.Apodemus sylvaticus,6.39E+01
+01PLANT.Quercus robur,09MAMMAL.Myodes glareolus,6.94E+01
+01PLANT.Rosa sp.,09MAMMAL.Apodemus flavicollis,3.41E-01
+01PLANT.Rosa sp.,09MAMMAL.Apodemus sylvaticus,1.16E+00
+01PLANT.Rosa sp.,09MAMMAL.Micromys minutus,1.07E-01
+01PLANT.Rosa sp.,09MAMMAL.Myodes glareolus,5.36E-01
+01PLANT.Rubus fruticosus,09MAMMAL.Apodemus flavicollis,2.77E+00
+01PLANT.Rubus fruticosus,09MAMMAL.Apodemus sylvaticus,1.76E+01
+01PLANT.Rubus fruticosus,09MAMMAL.Micromys minutus,8.46E-01
+01PLANT.Rubus fruticosus,09MAMMAL.Myodes glareolus,9.66E+00
+01PLANT.Rumex sp.,09MAMMAL.Apodemus flavicollis,1.74E+00
+01PLANT.Rumex sp.,09MAMMAL.Apodemus sylvaticus,3.90E+01
+01PLANT.Rumex sp.,09MAMMAL.Micromys minutus,4.22E-01
+01PLANT.Rumex sp.,09MAMMAL.Myodes glareolus,1.78E+01
+01PLANT.Sambucus nigra,09MAMMAL.Apodemus flavicollis,4.32E-02
+01PLANT.Sambucus nigra,09MAMMAL.Apodemus sylvaticus,2.71E-01
+01PLANT.Sambucus nigra,09MAMMAL.Micromys minutus,1.36E-02
+01PLANT.Sambucus nigra,09MAMMAL.Myodes glareolus,2.15E-01
+01PLANT.Sherardia arvensis,09MAMMAL.Apodemus sylvaticus,2.23E-02
+01PLANT.Sinapis arvensis,09MAMMAL.Apodemus sylvaticus,5.92E-01
+01PLANT.Stachys sylvatica,09MAMMAL.Apodemus flavicollis,9.05E-03
+01PLANT.Stachys sylvatica,09MAMMAL.Apodemus sylvaticus,3.07E-02
+01PLANT.Stachys sylvatica,09MAMMAL.Micromys minutus,2.84E-03
+01PLANT.Stachys sylvatica,09MAMMAL.Myodes glareolus,1.42E-02
+01PLANT.Stellaria graminea,09MAMMAL.Apodemus flavicollis,3.07E-03
+01PLANT.Stellaria graminea,09MAMMAL.Apodemus sylvaticus,1.79E-01
+01PLANT.Stellaria graminea,09MAMMAL.Myodes glareolus,4.84E-03
+01PLANT.Stellaria media,09MAMMAL.Myodes glareolus,3.28E-06
+01PLANT.Trifolium pratense/repens,09MAMMAL.Apodemus sylvaticus,1.10E+00
+01PLANT.Triticum aestivum,09MAMMAL.Apodemus sylvaticus,5.63E-01
+01PLANT.Urtica dioica,09MAMMAL.Apodemus sylvaticus,9.07E+00
+01PLANT.Urtica dioica,09MAMMAL.Myodes glareolus,6.73E+00
+01PLANT.Vicia hirsute,09MAMMAL.Apodemus sylvaticus,3.83E+00
+01PLANT.Vicia sepium,09MAMMAL.Apodemus sylvaticus,1.09E-04
+01PLANT.Bellis perennis,12BFLY.Pieris rapae,1.50E-01
+01PLANT.Brassica napus,12BFLY.Pieris rapae,5.34E+00
+01PLANT.Cardamine pratensis,12BFLY.Inachis io,4.98E+00
+01PLANT.Cirsium arvense,12BFLY.Aglais urticae,9.66E+00
+01PLANT.Cirsium arvense,12BFLY.Aphantopus hyperantus,1.79E+01
+01PLANT.Cirsium arvense,12BFLY.Inachis io,7.11E+01
+01PLANT.Cirsium arvense,12BFLY.Maniola jurtina,1.50E+02
+01PLANT.Cirsium arvense,12BFLY.Ochlodes sylvanus,7.62E-01
+01PLANT.Cirsium arvense,12BFLY.Pieris brassicae,7.05E+01
+01PLANT.Cirsium arvense,12BFLY.Pieris napi,3.86E+01
+01PLANT.Cirsium arvense,12BFLY.Pieris rapae,2.48E+00
+01PLANT.Cirsium arvense,12BFLY.Polygonia c-album,2.15E-01
+01PLANT.Cirsium arvense,12BFLY.Polyommatus icarus,2.27E+00
+01PLANT.Cirsium arvense,12BFLY.Pyronia tithonus,3.90E+01
+01PLANT.Cirsium arvense,12BFLY.Thymelicus sylvestris,2.27E-01
+01PLANT.Cirsium arvense,12BFLY.Vanessa atalanta,1.25E+01
+01PLANT.Cirsium vulgare,12BFLY.Aglais urticae,7.68E-01
+01PLANT.Cirsium vulgare,12BFLY.Aphantopus hyperantus,9.54E-02
+01PLANT.Cirsium vulgare,12BFLY.Inachis io,8.89E-01
+01PLANT.Cirsium vulgare,12BFLY.Maniola jurtina,2.90E+00
+01PLANT.Cirsium vulgare,12BFLY.Pieris brassicae,2.56E+00
+01PLANT.Cirsium vulgare,12BFLY.Pieris napi,1.39E+00
+01PLANT.Cirsium vulgare,12BFLY.Pieris rapae,3.67E-01
+01PLANT.Cirsium vulgare,12BFLY.Polygonia c-album,4.14E-03
+01PLANT.Cirsium vulgare,12BFLY.Pyronia tithonus,2.73E+00
+01PLANT.Cirsium vulgare,12BFLY.Vanessa atalanta,7.81E-01
+01PLANT.Conolvulus/Calystegia,12BFLY.Pieris rapae,9.99E-01
+01PLANT.Epilobium sp.,12BFLY.Pieris brassicae,1.06E+01
+01PLANT.Glechoma hederacea,12BFLY.Pieris napi,3.51E+00
+01PLANT.Heracleum sphondylium,12BFLY.Maniola jurtina,2.66E-01
+01PLANT.Hyacinthoides non-scripta,12BFLY.Inachis io,8.55E+00
+01PLANT.Hyacinthoides non-scripta,12BFLY.Pieris rapae,8.47E+00
+01PLANT.Hypochaeris/ Crepis sp.,12BFLY.Aglais urticae,1.08E+01
+01PLANT.Hypochaeris/ Crepis sp.,12BFLY.Inachis io,1.62E+01
+01PLANT.Ligustrum vulgare,12BFLY.Pyronia tithonus,2.10E+00
+01PLANT.Lotus corniculatus,12BFLY.Ochlodes sylvanus,1.68E-01
+01PLANT.Lotus corniculatus,12BFLY.Pieris rapae,5.02E+00
+01PLANT.Matricaria recutita,12BFLY.Maniola jurtina,7.22E+02
+01PLANT.Matricaria recutita,12BFLY.Thymelicus sylvestris,5.68E+01
+01PLANT.Medicago sativa ssp. sativa,12BFLY.Pieris brassicae,1.15E+02
+01PLANT.Medicago sativa ssp. sativa,12BFLY.Pieris napi,3.19E+01
+01PLANT.Medicago sativa ssp. sativa,12BFLY.Polyommatus icarus,2.77E+00
+01PLANT.Medicago sativa ssp. sativa,12BFLY.Thymelicus sylvestris,2.73E+01
+01PLANT.Mentha arvensis,12BFLY.Pyronia tithonus,3.89E+00
+01PLANT.Prunella vulgaris,12BFLY.Maniola jurtina,1.01E+02
+01PLANT.Ranunculus repens,12BFLY.Lycaena phlaeas,2.87E+01
+01PLANT.Ranunculus repens,12BFLY.Maniola jurtina,3.56E+03
+01PLANT.Ranunculus repens,12BFLY.Pieris napi,1.41E+02
+01PLANT.Ranunculus repens,12BFLY.Pieris rapae,1.59E+02
+01PLANT.Rubus fruticosus,12BFLY.Aglais urticae,4.99E+00
+01PLANT.Rubus fruticosus,12BFLY.Inachis io,4.00E+01
+01PLANT.Rubus fruticosus,12BFLY.Maniola jurtina,1.76E+02
+01PLANT.Rubus fruticosus,12BFLY.Ochlodes sylvanus,1.69E+00
+01PLANT.Rubus fruticosus,12BFLY.Pararge aegeria,9.64E+00
+01PLANT.Rubus fruticosus,12BFLY.Pieris rapae,1.21E+01
+01PLANT.Rubus fruticosus,12BFLY.Polygonia c-album,9.90E+00
+01PLANT.Rubus fruticosus,12BFLY.Pyronia tithonus,1.64E+02
+01PLANT.Rubus fruticosus,12BFLY.Vanessa atalanta,2.49E+01
+01PLANT.Senacio jacobaea,12BFLY.Pyronia tithonus,2.57E+00
+01PLANT.Silene dioica,12BFLY.Pieris brassicae,5.06E+00
+01PLANT.Sinapis arvensis,12BFLY.Pieris rapae,4.41E+01
+01PLANT.Taraxacum officinale,12BFLY.Aglais urticae,5.22E+01
+01PLANT.Taraxacum officinale,12BFLY.Inachis io,1.67E+02
+01PLANT.Taraxacum officinale,12BFLY.Lycaena phlaeas,7.07E-01
+01PLANT.Taraxacum officinale,12BFLY.Pararge aegeria,1.75E+01
+01PLANT.Taraxacum officinale,12BFLY.Pieris brassicae,8.30E+00
+01PLANT.Torilis japonica,12BFLY.Pyronia tithonus,3.94E+01
+01PLANT.Trifolium pratense/repens,12BFLY.Lycaena phlaeas,4.12E+01
+01PLANT.Trifolium pratense/repens,12BFLY.Ochlodes sylvanus,6.08E+01
+01PLANT.Trifolium pratense/repens,12BFLY.Pieris rapae,1.39E+02
+01PLANT.Trifolium pratense/repens,12BFLY.Polyommatus icarus,5.90E+01
+01PLANT.Trifolium pratense/repens,12BFLY.Pyronia tithonus,3.43E+02
+01PLANT.Trifolium pratense/repens,12BFLY.Thymelicus sylvestris,2.47E+01
+01PLANT.Trifolium pratense/repens,12BFLY.Vanessa cardui,4.74E+01
+01PLANT.Vicia sativa,12BFLY.Ochlodes sylvanus,1.23E+00
+01PLANT.Vicia sativa,12BFLY.Pieris napi,1.49E+00
+01PLANT.Cirsium arvense,13SFPARA.Bracon praecox,2.06E+03
+01PLANT.Cirsium arvense,13SFPARA.Pteromalus albipennis,2.47E+04
+01PLANT.Cirsium vulgare,13SFPARA.Bracon immutator,1.11E+03
+01PLANT.Cirsium vulgare,13SFPARA.Bracon osculator,5.52E+02
+01PLANT.Cirsium vulgare,13SFPARA.Crataepus marbis,3.31E+03
+01PLANT.Cirsium vulgare,13SFPARA.Eurytoma sp A,5.52E+02
+01PLANT.Cirsium vulgare,13SFPARA.Eurytoma sp B,5.52E+02
+01PLANT.Cirsium vulgare,13SFPARA.Pterandrophysalis levantina,1.11E+03
+01PLANT.Cirsium vulgare,13SFPARA.Pteromalus beryllii,1.17E+03
+01PLANT.Cirsium vulgare,13SFPARA.Pteromalus elevatus,1.11E+03
+01PLANT.Trifolium pratense/repens,13SFPARA.Aprostocetus sp,1.11E+03
+01PLANT.Trifolium pratense/repens,13SFPARA.Mesopolobus incultus,4.00E+05
+01PLANT.Trifolium pratense/repens,13SFPARA.Spintherus dubius,4.14E+04
+01PLANT.Trifolium pratense/repens,13SFPARA.Triaspis floricola,2.21E+03
+01PLANT.Trifolium pratense/repens,13SFPARA.Trichomalus campestris,9.25E+04
+01PLANT.Trifolium pratense/repens,13SFPARA.Trichomalus rufinus,7.61E+04
+01PLANT.Vicia sativa,13SFPARA.Pteromalus sequester-group,1.66E+03
+01PLANT.Acer campestre,14FLEA.Amalaraeus penicilliger mustelae,1.27E+01
+01PLANT.Acer campestre,14FLEA.Ctenophthalmus nobilis vulgaris,6.65E+00
+01PLANT.Acer campestre,14FLEA.Hystrichopsylla talpae talpae,1.60E+00
+01PLANT.Acer campestre,14FLEA.Ixodes trianguliceps,4.85E-01
+01PLANT.Acer campestre,14FLEA.Megabothris turbidus,1.84E+00
+01PLANT.Acer campestre,14FLEA.Palaeopsylla minor,9.42E-03
+01PLANT.Acer campestre,14FLEA.Palaeopsylla soricis soricis,4.66E-01
+"01PLANT.Acer pseudoplatanus,",14FLEA.Amalaraeus penicilliger mustelae,3.77E+00
+"01PLANT.Acer pseudoplatanus,",14FLEA.Ctenophthalmus nobilis vulgaris,2.38E+00
+"01PLANT.Acer pseudoplatanus,",14FLEA.Hystrichopsylla talpae talpae,2.75E-01
+"01PLANT.Acer pseudoplatanus,",14FLEA.Ixodes trianguliceps,2.46E-01
+"01PLANT.Acer pseudoplatanus,",14FLEA.Megabothris turbidus,3.66E-01
+"01PLANT.Acer pseudoplatanus,",14FLEA.Palaeopsylla soricis soricis,2.46E-01
+01PLANT.Chenopodium sp.,14FLEA.Amalaraeus penicilliger mustelae,1.23E-03
+01PLANT.Chenopodium sp.,14FLEA.Ctenophthalmus nobilis vulgaris,1.80E-03
+01PLANT.Chenopodium sp.,14FLEA.Hystrichopsylla talpae talpae,3.43E-04
+01PLANT.Chenopodium sp.,14FLEA.Ixodes trianguliceps,1.83E-03
+01PLANT.Chenopodium sp.,14FLEA.Megabothris turbidus,6.83E-03
+01PLANT.Chenopodium sp.,14FLEA.Palaeopsylla minor,3.29E-04
+01PLANT.Corylus avellana,14FLEA.Amalaraeus penicilliger mustelae,3.13E+00
+01PLANT.Corylus avellana,14FLEA.Ctenophthalmus nobilis vulgaris,1.94E+00
+01PLANT.Corylus avellana,14FLEA.Hystrichopsylla talpae talpae,3.11E-01
+01PLANT.Corylus avellana,14FLEA.Ixodes trianguliceps,1.53E-01
+01PLANT.Corylus avellana,14FLEA.Megabothris turbidus,4.59E-01
+01PLANT.Corylus avellana,14FLEA.Palaeopsylla minor,6.60E-03
+01PLANT.Corylus avellana,14FLEA.Palaeopsylla soricis soricis,1.40E-01
+01PLANT.Crataegus monogyna,14FLEA.Amalaraeus penicilliger mustelae,3.55E+00
+01PLANT.Crataegus monogyna,14FLEA.Ctenophthalmus nobilis vulgaris,1.73E+00
+01PLANT.Crataegus monogyna,14FLEA.Hystrichopsylla talpae talpae,6.50E-01
+01PLANT.Crataegus monogyna,14FLEA.Ixodes trianguliceps,2.15E-01
+01PLANT.Crataegus monogyna,14FLEA.Megabothris turbidus,7.23E-01
+01PLANT.Crataegus monogyna,14FLEA.Nosopsyllus fasciatus,1.82E-03
+01PLANT.Crataegus monogyna,14FLEA.Palaeopsylla minor,1.08E-01
+01PLANT.Fallopia convolvulus,14FLEA.Ctenophthalmus nobilis vulgaris,1.43E-05
+01PLANT.Fallopia convolvulus,14FLEA.Hystrichopsylla talpae talpae,5.74E-06
+01PLANT.Fraxinus excelsior,14FLEA.Amalaraeus penicilliger mustelae,6.09E+00
+01PLANT.Fraxinus excelsior,14FLEA.Ctenophthalmus nobilis vulgaris,4.71E+00
+01PLANT.Fraxinus excelsior,14FLEA.Hystrichopsylla talpae talpae,3.67E-01
+01PLANT.Fraxinus excelsior,14FLEA.Ixodes trianguliceps,3.38E-01
+01PLANT.Fraxinus excelsior,14FLEA.Megabothris turbidus,9.79E-01
+01PLANT.Fraxinus excelsior,14FLEA.Palaeopsylla minor,7.93E-04
+01PLANT.Fraxinus excelsior,14FLEA.Palaeopsylla soricis soricis,3.36E-01
+01PLANT.Geranium dissectum,14FLEA.Ctenophthalmus nobilis vulgaris,2.27E-03
+01PLANT.Geranium dissectum,14FLEA.Ixodes trianguliceps,2.00E-03
+01PLANT.Geranium dissectum,14FLEA.Palaeopsylla minor,1.00E-03
+01PLANT.Geranium robertianum,14FLEA.Amalaraeus penicilliger mustelae,1.30E-02
+01PLANT.Geranium robertianum,14FLEA.Ctenophthalmus nobilis vulgaris,1.32E-02
+01PLANT.Geranium robertianum,14FLEA.Hystrichopsylla talpae talpae,2.61E-03
+01PLANT.Geranium robertianum,14FLEA.Ixodes trianguliceps,9.30E-03
+01PLANT.Geranium robertianum,14FLEA.Palaeopsylla minor,4.65E-03
+01PLANT.Glechoma hederacea,14FLEA.Amalaraeus penicilliger mustelae,6.96E-03
+01PLANT.Glechoma hederacea,14FLEA.Ctenophthalmus nobilis vulgaris,7.03E-03
+01PLANT.Glechoma hederacea,14FLEA.Hystrichopsylla talpae talpae,1.39E-03
+01PLANT.Glechoma hederacea,14FLEA.Ixodes trianguliceps,4.96E-03
+01PLANT.Glechoma hederacea,14FLEA.Palaeopsylla minor,2.48E-03
+01PLANT.Hyacinthoides non-scripta,14FLEA.Amalaraeus penicilliger mustelae,4.43E-02
+01PLANT.Hyacinthoides non-scripta,14FLEA.Ctenophthalmus nobilis vulgaris,6.64E-02
+01PLANT.Hyacinthoides non-scripta,14FLEA.Megabothris turbidus,2.21E-02
+01PLANT.Lamium purpureum,14FLEA.Amalaraeus penicilliger mustelae,2.43E-03
+01PLANT.Lamium purpureum,14FLEA.Ctenophthalmus nobilis vulgaris,2.44E-03
+01PLANT.Lamium purpureum,14FLEA.Hystrichopsylla talpae talpae,3.41E-04
+01PLANT.Lamium purpureum,14FLEA.Ixodes trianguliceps,2.66E-03
+01PLANT.Lamium purpureum,14FLEA.Megabothris turbidus,7.18E-04
+01PLANT.Lamium purpureum,14FLEA.Palaeopsylla minor,6.08E-04
+01PLANT.Mercurialis perennis,14FLEA.Amalaraeus penicilliger mustelae,6.49E-03
+01PLANT.Mercurialis perennis,14FLEA.Ctenophthalmus nobilis vulgaris,6.55E-03
+01PLANT.Mercurialis perennis,14FLEA.Hystrichopsylla talpae talpae,1.30E-03
+01PLANT.Mercurialis perennis,14FLEA.Ixodes trianguliceps,4.62E-03
+01PLANT.Mercurialis perennis,14FLEA.Palaeopsylla minor,2.31E-03
+01PLANT.Persicaria sp.,14FLEA.Ctenophthalmus nobilis vulgaris,4.20E-03
+01PLANT.Persicaria sp.,14FLEA.Hystrichopsylla talpae talpae,8.70E-03
+01PLANT.Persicaria sp.,14FLEA.Ixodes trianguliceps,2.15E-03
+01PLANT.Persicaria sp.,14FLEA.Megabothris turbidus,1.24E-03
+01PLANT.Persicaria sp.,14FLEA.Nosopsyllus fasciatus,1.24E-03
+01PLANT.Persicaria sp.,14FLEA.Palaeopsylla minor,1.07E-03
+01PLANT.Poaceae,14FLEA.Amalaraeus penicilliger mustelae,1.72E+02
+01PLANT.Poaceae,14FLEA.Ctenophthalmus nobilis vulgaris,1.17E+02
+01PLANT.Poaceae,14FLEA.Hystrichopsylla talpae talpae,2.60E+01
+01PLANT.Poaceae,14FLEA.Ixodes trianguliceps,3.48E+01
+01PLANT.Poaceae,14FLEA.Megabothris turbidus,3.83E+01
+01PLANT.Poaceae,14FLEA.Nosopsyllus fasciatus,2.62E+00
+01PLANT.Poaceae,14FLEA.Palaeopsylla minor,1.28E+01
+01PLANT.Poaceae,14FLEA.Palaeopsylla soricis soricis,3.04E+00
+01PLANT.Polygonum sp.,14FLEA.Amalaraeus penicilliger mustelae,1.40E-03
+01PLANT.Polygonum sp.,14FLEA.Ctenophthalmus nobilis vulgaris,5.65E-04
+01PLANT.Polygonum sp.,14FLEA.Hystrichopsylla talpae talpae,2.97E-04
+01PLANT.Polygonum sp.,14FLEA.Ixodes trianguliceps,3.49E-04
+01PLANT.Polygonum sp.,14FLEA.Palaeopsylla minor,1.75E-04
+01PLANT.Prunus spinosa,14FLEA.Amalaraeus penicilliger mustelae,1.86E+00
+01PLANT.Prunus spinosa,14FLEA.Ctenophthalmus nobilis vulgaris,1.31E+00
+01PLANT.Prunus spinosa,14FLEA.Hystrichopsylla talpae talpae,2.16E-01
+01PLANT.Prunus spinosa,14FLEA.Ixodes trianguliceps,9.53E-02
+01PLANT.Prunus spinosa,14FLEA.Megabothris turbidus,4.04E-01
+01PLANT.Prunus spinosa,14FLEA.Palaeopsylla minor,2.71E-02
+01PLANT.Prunus spinosa,14FLEA.Palaeopsylla soricis soricis,4.11E-02
+01PLANT.Quercus robur,14FLEA.Amalaraeus penicilliger mustelae,1.59E+01
+01PLANT.Quercus robur,14FLEA.Ctenophthalmus nobilis vulgaris,1.43E+01
+01PLANT.Quercus robur,14FLEA.Hystrichopsylla talpae talpae,1.55E+00
+01PLANT.Quercus robur,14FLEA.Ixodes trianguliceps,5.18E-01
+01PLANT.Quercus robur,14FLEA.Megabothris turbidus,3.55E+00
+01PLANT.Quercus robur,14FLEA.Palaeopsylla soricis soricis,5.18E-01
+01PLANT.Rosa sp.,14FLEA.Amalaraeus penicilliger mustelae,8.04E-01
+01PLANT.Rosa sp.,14FLEA.Ctenophthalmus nobilis vulgaris,3.53E-01
+01PLANT.Rosa sp.,14FLEA.Hystrichopsylla talpae talpae,1.46E-01
+01PLANT.Rosa sp.,14FLEA.Megabothris turbidus,1.79E-01
+01PLANT.Rubus fruticosus,14FLEA.Amalaraeus penicilliger mustelae,7.69E+00
+01PLANT.Rubus fruticosus,14FLEA.Ctenophthalmus nobilis vulgaris,3.93E+00
+01PLANT.Rubus fruticosus,14FLEA.Hystrichopsylla talpae talpae,1.24E+00
+01PLANT.Rubus fruticosus,14FLEA.Ixodes trianguliceps,1.51E-01
+01PLANT.Rubus fruticosus,14FLEA.Megabothris turbidus,1.64E+00
+01PLANT.Rubus fruticosus,14FLEA.Palaeopsylla minor,4.33E-02
+01PLANT.Rubus fruticosus,14FLEA.Palaeopsylla soricis soricis,6.42E-02
+01PLANT.Rumex sp.,14FLEA.Amalaraeus penicilliger mustelae,1.30E+01
+01PLANT.Rumex sp.,14FLEA.Ctenophthalmus nobilis vulgaris,8.00E+00
+01PLANT.Rumex sp.,14FLEA.Hystrichopsylla talpae talpae,1.42E+00
+01PLANT.Rumex sp.,14FLEA.Ixodes trianguliceps,1.59E+00
+01PLANT.Rumex sp.,14FLEA.Megabothris turbidus,1.29E+00
+01PLANT.Rumex sp.,14FLEA.Nosopsyllus fasciatus,1.86E-02
+01PLANT.Rumex sp.,14FLEA.Palaeopsylla minor,4.28E-01
+01PLANT.Rumex sp.,14FLEA.Palaeopsylla soricis soricis,6.74E-01
+01PLANT.Sambucus nigra,14FLEA.Amalaraeus penicilliger mustelae,1.20E-01
+01PLANT.Sambucus nigra,14FLEA.Ctenophthalmus nobilis vulgaris,6.83E-02
+01PLANT.Sambucus nigra,14FLEA.Hystrichopsylla talpae talpae,2.01E-02
+01PLANT.Sambucus nigra,14FLEA.Ixodes trianguliceps,5.53E-03
+01PLANT.Sambucus nigra,14FLEA.Megabothris turbidus,2.79E-02
+01PLANT.Sambucus nigra,14FLEA.Palaeopsylla minor,2.76E-03
+01PLANT.Sherardia arvensis,14FLEA.Ctenophthalmus nobilis vulgaris,3.11E-03
+01PLANT.Sherardia arvensis,14FLEA.Ixodes trianguliceps,2.74E-03
+01PLANT.Sherardia arvensis,14FLEA.Palaeopsylla minor,1.37E-03
+01PLANT.Sinapis arvensis,14FLEA.Ctenophthalmus nobilis vulgaris,4.11E-03
+01PLANT.Sinapis arvensis,14FLEA.Megabothris turbidus,4.11E-03
+01PLANT.Sinapis arvensis,14FLEA.Nosopsyllus fasciatus,4.11E-03
+01PLANT.Stachys sylvatica,14FLEA.Amalaraeus penicilliger mustelae,2.13E-02
+01PLANT.Stachys sylvatica,14FLEA.Ctenophthalmus nobilis vulgaris,9.38E-03
+01PLANT.Stachys sylvatica,14FLEA.Hystrichopsylla talpae talpae,3.88E-03
+01PLANT.Stachys sylvatica,14FLEA.Megabothris turbidus,4.74E-03
+01PLANT.Stellaria graminea,14FLEA.Amalaraeus penicilliger mustelae,7.25E-03
+01PLANT.Stellaria graminea,14FLEA.Ctenophthalmus nobilis vulgaris,3.19E-03
+01PLANT.Stellaria graminea,14FLEA.Hystrichopsylla talpae talpae,1.32E-03
+01PLANT.Stellaria graminea,14FLEA.Megabothris turbidus,1.61E-03
+01PLANT.Trifolium pratense/repens,14FLEA.Ctenophthalmus nobilis vulgaris,3.61E-04
+01PLANT.Trifolium pratense/repens,14FLEA.Megabothris turbidus,3.61E-04
+01PLANT.Trifolium pratense/repens,14FLEA.Nosopsyllus fasciatus,3.61E-04
+01PLANT.Urtica dioica,14FLEA.Amalaraeus penicilliger mustelae,3.02E+00
+01PLANT.Urtica dioica,14FLEA.Ctenophthalmus nobilis vulgaris,1.48E+00
+01PLANT.Urtica dioica,14FLEA.Hystrichopsylla talpae talpae,2.37E-01
+01PLANT.Urtica dioica,14FLEA.Ixodes trianguliceps,2.26E-01
+01PLANT.Urtica dioica,14FLEA.Megabothris turbidus,1.23E+00
+01PLANT.Urtica dioica,14FLEA.Nosopsyllus fasciatus,7.40E-03
+01PLANT.Urtica dioica,14FLEA.Palaeopsylla minor,2.45E-02
+01PLANT.Urtica dioica,14FLEA.Palaeopsylla soricis soricis,1.75E-01
+01PLANT.Vicia sepium,14FLEA.Ctenophthalmus nobilis vulgaris,4.55E-05
+01PLANT.Vicia sepium,14FLEA.Hystrichopsylla talpae talpae,1.82E-05
+03APH.Acyrthosiphon pisum,04PRIMARYPARA.Aphidius ervi,8.79E+04
+03APH.Acyrthosiphon pisum,04PRIMARYPARA.Aphidius rhopalosiphi?,6.72E+03
+03APH.Acyrthosiphon pisum,04PRIMARYPARA.Praon dorsale?,6.72E+03
+03APH.Aphid species 1,04PRIMARYPARA.Praon exoletum?,8.29E+02
+03APH.Brachycaudus helichrysii,04PRIMARYPARA.Aphidius matricariae,1.30E+04
+03APH.Brachycaudus helichrysii,04PRIMARYPARA.Aphidius rhopalosiphi?,2.21E+03
+03APH.Macrosiphum funestum,04PRIMARYPARA.Aphidius ervi,3.28E+02
+03APH.Microlophium carnosum,04PRIMARYPARA.Aphidius ervi,1.16E+03
+03APH.Microlophium carnosum,04PRIMARYPARA.Trioxys B,1.66E+03
+03APH.Sitobion avenae,04PRIMARYPARA.Aphidius ervi,1.66E+05
+03APH.Sitobion avenae,04PRIMARYPARA.Aphidius funebris,5.52E+02
+03APH.Sitobion avenae,04PRIMARYPARA.Aphidius matricariae,1.25E+04
+03APH.Sitobion avenae,04PRIMARYPARA.Aphidius picipes?,7.50E+04
+03APH.Sitobion avenae,04PRIMARYPARA.Aphidius rhopalosiphi?,9.68E+04
+03APH.Sitobion avenae,04PRIMARYPARA.Ephedrus plagiator,1.16E+05
+03APH.Sitobion avenae,04PRIMARYPARA.Praon volucre,1.07E+05
+03APH.Therioaphis trifoli,04PRIMARYPARA.Aphidius ervi,6.72E+03
+03APH.Tubaphis ranunculina,04PRIMARYPARA.Praon exoletum?,8.57E+03
+03APH.Tubaphis ranunculina,04PRIMARYPARA.Praon sp nr flavinode,1.23E+04
+03APH.Tubaphis ranunculina,04PRIMARYPARA.Praon volucre,2.46E+04
+03APH.Uroleucon sonchi,04PRIMARYPARA.Aphidius ervi,1.01E+04
+03APH.Acyrthosiphon pisum,05SECONDARYPARA.Alloxysta victrix,4.71E+04
+03APH.Acyrthosiphon pisum,05SECONDARYPARA.Asaphes suspensus,8.22E+04
+03APH.Acyrthosiphon pisum,05SECONDARYPARA.Asaphes vulgaris,2.69E+04
+03APH.Acyrthosiphon pisum,05SECONDARYPARA.Dendrocerus carpenteri,6.72E+03
+03APH.Aphid species 1,05SECONDARYPARA.Dendrocerus aphidum,8.29E+02
+03APH.Aphis rumicis,05SECONDARYPARA.Dendrocerus carpenteri,1.08E+05
+03APH.Brachycaudus helichrysii,05SECONDARYPARA.Alloxysta victrix,8.31E+03
+03APH.Brachycaudus helichrysii,05SECONDARYPARA.Asaphes suspensus,8.91E+04
+03APH.Brachycaudus helichrysii,05SECONDARYPARA.Dendrocerus aphidum,9.96E+03
+03APH.Brachycaudus helichrysii,05SECONDARYPARA.Dendrocerus carpenteri,5.52E+02
+03APH.Dysaphis species 1,05SECONDARYPARA.Alloxysta victrix,1.45E+02
+03APH.Microlophium carnosum,05SECONDARYPARA.Alloxysta victrix,8.75E+02
+03APH.Phorodon humuli,05SECONDARYPARA.Asaphes vulgaris,3.28E+02
+03APH.Phorodon humuli,05SECONDARYPARA.Dendrocerus carpenteri,2.19E+02
+03APH.Sitobion avenae,05SECONDARYPARA.Alloxysta victrix,2.00E+05
+03APH.Sitobion avenae,05SECONDARYPARA.Asaphes suspensus,2.35E+05
+03APH.Sitobion avenae,05SECONDARYPARA.Asaphes vulgaris,5.84E+04
+03APH.Sitobion avenae,05SECONDARYPARA.Coruna clavata,7.26E+01
+03APH.Sitobion avenae,05SECONDARYPARA.Dendrocerus aphidum,3.99E+04
+03APH.Sitobion avenae,05SECONDARYPARA.Dendrocerus carpenteri,2.97E+05
+03APH.Sitobion avenae,05SECONDARYPARA.Pachyneuron sp,5.52E+02
+03APH.Therioaphis trifoli,05SECONDARYPARA.Alloxysta victrix,2.02E+04
+03APH.Tubaphis ranunculina,05SECONDARYPARA.Alloxysta victrix,5.29E+03
+03APH.Uroleucon cirsii,05SECONDARYPARA.Alloxysta victrix,5.52E+02
+07SEEDINVERT.Bruchidius varius,13SFPARA.Aprostocetus sp,6.50E+01
+07SEEDINVERT.Bruchidius varius,13SFPARA.Spintherus dubius,9.75E+02
+07SEEDINVERT.Bruchidius varius,13SFPARA.Triaspis floricola,1.30E+02
+07SEEDINVERT.Bruchophagus gibbus,13SFPARA.Mesopolobus incultus,6.40E+04
+07SEEDINVERT.Bruchophagus gibbus,13SFPARA.Spintherus dubius,1.73E+03
+07SEEDINVERT.Bruchophagus gibbus,13SFPARA.Trichomalus campestris,1.73E+04
+07SEEDINVERT.Bruchophagus gibbus,13SFPARA.Trichomalus rufinus,3.46E+03
+07SEEDINVERT.Curtonotus aulicus,13SFPARA.Bracon immutator,1.02E+01
+07SEEDINVERT.Curtonotus aulicus,13SFPARA.Bracon osculator,5.11E+00
+07SEEDINVERT.Curtonotus aulicus,13SFPARA.Eurytoma sp A,5.11E+00
+07SEEDINVERT.Curtonotus aulicus,13SFPARA.Eurytoma sp B,5.11E+00
+07SEEDINVERT.Curtonotus aulicus,13SFPARA.Pterandrophysalis levantina,3.68E+02
+07SEEDINVERT.Olibrus aeneus,13SFPARA.Bracon immutator,1.02E+01
+07SEEDINVERT.Olibrus aeneus,13SFPARA.Bracon osculator,5.11E+00
+07SEEDINVERT.Olibrus aeneus,13SFPARA.Eurytoma sp A,5.11E+00
+07SEEDINVERT.Olibrus aeneus,13SFPARA.Eurytoma sp B,5.11E+00
+07SEEDINVERT.Olibrus aeneus,13SFPARA.Pterandrophysalis levantina,3.68E+02
+07SEEDINVERT.Oxystoma pomonae,13SFPARA.Pteromalus sequester-group,1.66E+03
+07SEEDINVERT.Protapion apricans,13SFPARA.Aprostocetus sp,3.25E+02
+07SEEDINVERT.Protapion apricans,13SFPARA.Mesopolobus incultus,5.63E+04
+07SEEDINVERT.Protapion apricans,13SFPARA.Spintherus dubius,6.68E+03
+07SEEDINVERT.Protapion apricans,13SFPARA.Triaspis floricola,6.50E+02
+07SEEDINVERT.Protapion apricans,13SFPARA.Trichomalus campestris,1.51E+04
+07SEEDINVERT.Protapion apricans,13SFPARA.Trichomalus rufinus,3.03E+03
+07SEEDINVERT.Protapion assimile,13SFPARA.Aprostocetus sp,2.92E+02
+07SEEDINVERT.Protapion assimile,13SFPARA.Mesopolobus incultus,1.44E+03
+07SEEDINVERT.Protapion assimile,13SFPARA.Spintherus dubius,5.83E+03
+07SEEDINVERT.Protapion assimile,13SFPARA.Triaspis floricola,5.85E+02
+07SEEDINVERT.Protapion fulvipes,13SFPARA.Aprostocetus sp,1.30E+02
+07SEEDINVERT.Protapion fulvipes,13SFPARA.Mesopolobus incultus,2.17E+05
+07SEEDINVERT.Protapion fulvipes,13SFPARA.Spintherus dubius,1.57E+04
+07SEEDINVERT.Protapion fulvipes,13SFPARA.Triaspis floricola,2.60E+02
+07SEEDINVERT.Protapion fulvipes,13SFPARA.Trichomalus campestris,4.49E+04
+07SEEDINVERT.Protapion fulvipes,13SFPARA.Trichomalus rufinus,6.66E+04
+07SEEDINVERT.Protapion trifolii,13SFPARA.Aprostocetus sp,1.95E+02
+07SEEDINVERT.Protapion trifolii,13SFPARA.Mesopolobus incultus,6.06E+04
+07SEEDINVERT.Protapion trifolii,13SFPARA.Spintherus dubius,9.04E+03
+07SEEDINVERT.Protapion trifolii,13SFPARA.Triaspis floricola,3.90E+02
+07SEEDINVERT.Protapion trifolii,13SFPARA.Trichomalus campestris,1.51E+04
+07SEEDINVERT.Protapion trifolii,13SFPARA.Trichomalus rufinus,3.03E+03
+07SEEDINVERT.Protapion varipes,13SFPARA.Aprostocetus sp,3.25E+01
+07SEEDINVERT.Protapion varipes,13SFPARA.Spintherus dubius,4.87E+02
+07SEEDINVERT.Protapion varipes,13SFPARA.Triaspis floricola,6.50E+01
+07SEEDINVERT.Rhinocyllus conicus,13SFPARA.Bracon immutator,1.02E+01
+07SEEDINVERT.Rhinocyllus conicus,13SFPARA.Bracon osculator,5.11E+00
+07SEEDINVERT.Rhinocyllus conicus,13SFPARA.Eurytoma sp A,5.11E+00
+07SEEDINVERT.Rhinocyllus conicus,13SFPARA.Eurytoma sp B,5.11E+00
+07SEEDINVERT.Rhinocyllus conicus,13SFPARA.Pterandrophysalis levantina,3.68E+02
+07SEEDINVERT.Sitona lineatus,13SFPARA.Aprostocetus sp,3.25E+01
+07SEEDINVERT.Sitona lineatus,13SFPARA.Spintherus dubius,4.87E+02
+07SEEDINVERT.Sitona lineatus,13SFPARA.Triaspis floricola,6.50E+01
+07SEEDINVERT.Sitona sulcifrons,13SFPARA.Aprostocetus sp,3.25E+01
+07SEEDINVERT.Sitona sulcifrons,13SFPARA.Spintherus dubius,4.87E+02
+07SEEDINVERT.Sitona sulcifrons,13SFPARA.Triaspis floricola,6.50E+01
+07SEEDINVERT.Terellia longicauda,13SFPARA.Pteromalus beryllii,1.46E+02
+07SEEDINVERT.Terellia ruficauda,13SFPARA.Bracon praecox,2.06E+02
+07SEEDINVERT.Terellia ruficauda,13SFPARA.Pteromalus albipennis,2.47E+04
+07SEEDINVERT.Terellia serratulae,13SFPARA.Bracon immutator,1.02E+02
+07SEEDINVERT.Terellia serratulae,13SFPARA.Bracon osculator,5.11E+01
+07SEEDINVERT.Terellia serratulae,13SFPARA.Crataepus marbis,3.16E+02
+07SEEDINVERT.Terellia serratulae,13SFPARA.Eurytoma sp A,5.11E+01
+07SEEDINVERT.Terellia serratulae,13SFPARA.Eurytoma sp B,5.11E+01
+07SEEDINVERT.Terellia serratulae,13SFPARA.Pteromalus beryllii,1.02E+03
+07SEEDINVERT.Terellia serratulae,13SFPARA.Pteromalus elevatus,1.05E+02
+07SEEDINVERT.Urophora stylata,13SFPARA.Bracon immutator,9.72E+02
+07SEEDINVERT.Urophora stylata,13SFPARA.Bracon osculator,4.86E+02
+07SEEDINVERT.Urophora stylata,13SFPARA.Bracon praecox,1.85E+03
+07SEEDINVERT.Urophora stylata,13SFPARA.Crataepus marbis,3.00E+03
+07SEEDINVERT.Urophora stylata,13SFPARA.Eurytoma sp A,4.86E+02
+07SEEDINVERT.Urophora stylata,13SFPARA.Eurytoma sp B,4.86E+02
+07SEEDINVERT.Urophora stylata,13SFPARA.Pteromalus elevatus,9.99E+02
+09MAMMAL.Apodemus flavicollis,14FLEA.Amalaraeus penicilliger mustelae,5.37E+00
+09MAMMAL.Apodemus flavicollis,14FLEA.Ctenophthalmus nobilis vulgaris,1.77E+01
+09MAMMAL.Apodemus flavicollis,14FLEA.Hystrichopsylla talpae talpae,6.94E+00
+09MAMMAL.Apodemus sylvaticus,14FLEA.Amalaraeus penicilliger mustelae,5.14E+00
+09MAMMAL.Apodemus sylvaticus,14FLEA.Ctenophthalmus nobilis vulgaris,3.86E+01
+09MAMMAL.Apodemus sylvaticus,14FLEA.Hystrichopsylla talpae talpae,1.04E+01
+09MAMMAL.Apodemus sylvaticus,14FLEA.Ixodes trianguliceps,2.70E+01
+09MAMMAL.Apodemus sylvaticus,14FLEA.Megabothris turbidus,2.65E+00
+09MAMMAL.Apodemus sylvaticus,14FLEA.Nosopsyllus fasciatus,2.65E+00
+09MAMMAL.Apodemus sylvaticus,14FLEA.Palaeopsylla minor,1.35E+01
+09MAMMAL.Micromys minutus,14FLEA.Amalaraeus penicilliger mustelae,9.71E-01
+09MAMMAL.Micromys minutus,14FLEA.Hystrichopsylla talpae talpae,3.89E+00
+09MAMMAL.Myodes glareolus,14FLEA.Amalaraeus penicilliger mustelae,2.32E+02
+09MAMMAL.Myodes glareolus,14FLEA.Ctenophthalmus nobilis vulgaris,1.08E+02
+09MAMMAL.Myodes glareolus,14FLEA.Hystrichopsylla talpae talpae,1.28E+01
+09MAMMAL.Myodes glareolus,14FLEA.Ixodes trianguliceps,1.19E+01
+09MAMMAL.Myodes glareolus,14FLEA.Megabothris turbidus,4.84E+01
+09MAMMAL.Myodes glareolus,14FLEA.Palaeopsylla soricis soricis,5.70E+00
